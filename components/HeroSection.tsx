@@ -21,7 +21,7 @@ export default function HeroSection() {
             volunteering, and more
           </p>
 
-          <h1 className="mt-4 max-w-4xl text-[3rem] font-semibold leading-[0.95] tracking-tight text-zinc-900 sm:mt-5 sm:text-6xl lg:text-7xl">
+          <h1 className="mt-4 max-w-4xl text-[2.5rem] font-semibold leading-[0.95] tracking-tight text-zinc-900 sm:mt-5 sm:text-6xl lg:text-6xl">
             A better way to find opportunities for NYC high school students.
           </h1>
 

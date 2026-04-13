@@ -197,7 +197,7 @@ function PillButton({
       type="button"
       onClick={onClick}
       disabled={disabled}
-      className={`rounded-full border px-4 py-2 text-sm transition ${
+      className={`rounded-full border px-3 py-1.5 text-[12px] leading-4 transition sm:px-4 sm:py-2 sm:text-sm ${
         selected
           ? "border-zinc-900 bg-zinc-900 text-white"
           : "border-zinc-200 bg-white text-zinc-700 hover:bg-zinc-50"
@@ -210,7 +210,7 @@ function PillButton({
 }
 
 function SectionLabel({ children }: { children: React.ReactNode }) {
-  return <p className="mb-3 text-sm font-medium text-zinc-900">{children}</p>;
+  return <p className="mb-2 text-sm font-medium text-zinc-900">{children}</p>;
 }
 
 type SubmitOpportunityFormModalProps = {
@@ -417,7 +417,7 @@ export default function SubmitOpportunityFormModal({
 
   return (
     <>
-      <div className="fixed inset-0 z-[100] flex items-center justify-center px-4 py-6">
+      <div className="fixed inset-0 z-[100] flex items-center justify-center px-3 py-3 sm:px-4 sm:py-6">
         <button
           type="button"
           aria-label="Close modal backdrop"
@@ -425,14 +425,14 @@ export default function SubmitOpportunityFormModal({
           className="absolute inset-0 bg-black/35 backdrop-blur-sm"
         />
 
-        <div className="relative z-[101] max-h-[90vh] w-full max-w-5xl overflow-y-auto rounded-[32px] border border-[#d8cabc] bg-white p-6 shadow-[0_24px_70px_rgba(0,0,0,0.16)] sm:p-8">
-          <div className="mb-8 flex items-start justify-between gap-4">
+        <div className="relative z-[101] max-h-[92vh] w-full max-w-5xl overflow-y-auto rounded-[24px] border border-[#d8cabc] bg-white p-4 shadow-[0_24px_70px_rgba(0,0,0,0.16)] sm:max-h-[90vh] sm:rounded-[32px] sm:p-8">
+          <div className="mb-5 flex items-start justify-between gap-3 sm:mb-8 sm:gap-4">
             <div>
-              <p className="text-sm text-zinc-500">Contribute</p>
-              <h2 className="mt-2 text-2xl font-semibold tracking-tight text-zinc-900 sm:text-3xl">
+              <p className="text-xs text-zinc-500 sm:text-sm">Contribute</p>
+              <h2 className="mt-1.5 text-xl font-semibold tracking-tight text-zinc-900 sm:mt-2 sm:text-3xl">
                 Submit an opportunity
               </h2>
-              <p className="mt-3 max-w-3xl text-sm leading-7 text-zinc-600 sm:text-base">
+              <p className="mt-2 max-w-3xl text-[13px] leading-6 text-zinc-600 sm:mt-3 sm:text-base sm:leading-7">
                 Submit an opportunity for review. It should be clearly relevant to
                 NYC high school students. A website or application link is required.
               </p>
@@ -441,16 +441,16 @@ export default function SubmitOpportunityFormModal({
             <button
               type="button"
               onClick={onClose}
-              className="inline-flex h-10 w-10 items-center justify-center rounded-full text-zinc-400 transition hover:bg-zinc-100 hover:text-zinc-700"
+              className="inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-full text-zinc-400 transition hover:bg-zinc-100 hover:text-zinc-700 sm:h-10 sm:w-10"
             >
               <span className="text-2xl leading-none">×</span>
             </button>
           </div>
 
           <form onSubmit={handleSubmit}>
-            <div className="grid gap-4 sm:grid-cols-2">
+            <div className="grid gap-3 sm:gap-4 sm:grid-cols-2">
               <div>
-                <label className="mb-2 block text-sm text-zinc-700">
+                <label className="mb-1.5 block text-sm text-zinc-700 sm:mb-2">
                   Your email <span className="text-red-600">*</span>
                 </label>
                 <input
@@ -462,14 +462,14 @@ export default function SubmitOpportunityFormModal({
                       submitterEmail: sanitizeEmailInput(e.target.value),
                     }))
                   }
-                  className="w-full rounded-2xl border border-[#d8cabc] px-4 py-3 text-sm outline-none"
+                  className="w-full rounded-xl border border-[#d8cabc] px-3.5 py-2.5 text-sm outline-none sm:rounded-2xl sm:px-4 sm:py-3"
                   placeholder="you@example.com"
                   disabled={isSubmitting}
                 />
               </div>
 
               <div>
-                <label className="mb-2 block text-sm text-zinc-700">Your name</label>
+                <label className="mb-1.5 block text-sm text-zinc-700 sm:mb-2">Your name</label>
                 <input
                   type="text"
                   value={form.submitterName}
@@ -479,14 +479,14 @@ export default function SubmitOpportunityFormModal({
                       submitterName: e.target.value,
                     }))
                   }
-                  className="w-full rounded-2xl border border-[#d8cabc] px-4 py-3 text-sm outline-none"
+                  className="w-full rounded-xl border border-[#d8cabc] px-3.5 py-2.5 text-sm outline-none sm:rounded-2xl sm:px-4 sm:py-3"
                   placeholder="Your name"
                   disabled={isSubmitting}
                 />
               </div>
 
               <div className="sm:col-span-2">
-                <label className="mb-2 block text-sm text-zinc-700">
+                <label className="mb-1.5 block text-sm text-zinc-700 sm:mb-2">
                   Organization name
                 </label>
                 <input
@@ -498,14 +498,14 @@ export default function SubmitOpportunityFormModal({
                       organizationName: e.target.value,
                     }))
                   }
-                  className="w-full rounded-2xl border border-[#d8cabc] px-4 py-3 text-sm outline-none"
+                  className="w-full rounded-xl border border-[#d8cabc] px-3.5 py-2.5 text-sm outline-none sm:rounded-2xl sm:px-4 sm:py-3"
                   placeholder="Organization or group name"
                   disabled={isSubmitting}
                 />
               </div>
 
               <div className="sm:col-span-2">
-                <label className="mb-2 block text-sm text-zinc-700">
+                <label className="mb-1.5 block text-sm text-zinc-700 sm:mb-2">
                   Opportunity title <span className="text-red-600">*</span>
                 </label>
                 <input
@@ -517,14 +517,14 @@ export default function SubmitOpportunityFormModal({
                       title: e.target.value,
                     }))
                   }
-                  className="w-full rounded-2xl border border-[#d8cabc] px-4 py-3 text-sm outline-none"
+                  className="w-full rounded-xl border border-[#d8cabc] px-3.5 py-2.5 text-sm outline-none sm:rounded-2xl sm:px-4 sm:py-3"
                   placeholder="Opportunity title"
                   disabled={isSubmitting}
                 />
               </div>
 
               <div className="sm:col-span-2">
-                <label className="mb-2 block text-sm text-zinc-700">
+                <label className="mb-1.5 block text-sm text-zinc-700 sm:mb-2">
                   Website or application link <span className="text-red-600">*</span>
                 </label>
                 <input
@@ -536,14 +536,14 @@ export default function SubmitOpportunityFormModal({
                       website: e.target.value,
                     }))
                   }
-                  className="w-full rounded-2xl border border-[#d8cabc] px-4 py-3 text-sm outline-none"
+                  className="w-full rounded-xl border border-[#d8cabc] px-3.5 py-2.5 text-sm outline-none sm:rounded-2xl sm:px-4 sm:py-3"
                   placeholder="Official site, Google Form, or application page"
                   disabled={isSubmitting}
                 />
               </div>
 
               <div className="sm:col-span-2">
-                <label className="mb-2 block text-sm text-zinc-700">
+                <label className="mb-1.5 block text-sm text-zinc-700 sm:mb-2">
                   Location <span className="text-red-600">*</span>
                 </label>
                 <input
@@ -555,18 +555,18 @@ export default function SubmitOpportunityFormModal({
                       location: e.target.value,
                     }))
                   }
-                  className="w-full rounded-2xl border border-[#d8cabc] px-4 py-3 text-sm outline-none"
+                  className="w-full rounded-xl border border-[#d8cabc] px-3.5 py-2.5 text-sm outline-none sm:rounded-2xl sm:px-4 sm:py-3"
                   placeholder="New York, NY / Brooklyn, NY / Online"
                   disabled={isSubmitting}
                 />
               </div>
             </div>
 
-            <div className="mt-8">
+            <div className="mt-6 sm:mt-8">
               <SectionLabel>
                 Type / section <span className="text-red-600">*</span>
               </SectionLabel>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-1.5 sm:gap-2">
                 {TYPE_OPTIONS.map((option) => (
                   <PillButton
                     key={option}
@@ -585,11 +585,11 @@ export default function SubmitOpportunityFormModal({
               </div>
             </div>
 
-            <div className="mt-8">
+            <div className="mt-6 sm:mt-8">
               <SectionLabel>
                 Online / hybrid / in person <span className="text-red-600">*</span>
               </SectionLabel>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-1.5 sm:gap-2">
                 {MODALITY_OPTIONS.map((option) => (
                   <PillButton
                     key={option}
@@ -602,11 +602,11 @@ export default function SubmitOpportunityFormModal({
               </div>
             </div>
 
-            <div className="mt-8">
+            <div className="mt-6 sm:mt-8">
               <SectionLabel>
                 Grade <span className="text-red-600">*</span>
               </SectionLabel>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-1.5 sm:gap-2">
                 {GRADE_OPTIONS.map((option) => (
                   <PillButton
                     key={option}
@@ -619,11 +619,11 @@ export default function SubmitOpportunityFormModal({
               </div>
             </div>
 
-            <div className="mt-8">
+            <div className="mt-6 sm:mt-8">
               <SectionLabel>
                 Subject <span className="text-red-600">*</span>
               </SectionLabel>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-1.5 sm:gap-2">
                 {SUBJECT_OPTIONS.map((option) => (
                   <PillButton
                     key={option}
@@ -636,11 +636,11 @@ export default function SubmitOpportunityFormModal({
               </div>
             </div>
 
-            <div className="mt-8">
+            <div className="mt-6 sm:mt-8">
               <SectionLabel>
                 Pay / cost <span className="text-red-600">*</span>
               </SectionLabel>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-1.5 sm:gap-2">
                 {COST_OPTIONS.map((option) => (
                   <PillButton
                     key={option}
@@ -653,9 +653,9 @@ export default function SubmitOpportunityFormModal({
               </div>
             </div>
 
-            <div className="mt-8">
+            <div className="mt-6 sm:mt-8">
               <SectionLabel>Days it runs</SectionLabel>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-1.5 sm:gap-2">
                 {DAY_OPTIONS.map((option) => (
                   <PillButton
                     key={option}
@@ -668,9 +668,9 @@ export default function SubmitOpportunityFormModal({
               </div>
             </div>
 
-            <div className="mt-8">
+            <div className="mt-6 sm:mt-8">
               <SectionLabel>Student-led</SectionLabel>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-1.5 sm:gap-2">
                 <PillButton
                   label="Yes"
                   selected={form.studentLed === true}
@@ -698,11 +698,11 @@ export default function SubmitOpportunityFormModal({
               </div>
             </div>
 
-            <div className="mt-8">
+            <div className="mt-6 sm:mt-8">
               <SectionLabel>
                 Application deadline <span className="text-red-600">*</span>
               </SectionLabel>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-1.5 sm:gap-2">
                 <PillButton
                   label="Rolling basis"
                   selected={form.applicationDeadlineMode === "rolling"}
@@ -733,7 +733,7 @@ export default function SubmitOpportunityFormModal({
               </div>
 
               {form.applicationDeadlineMode === "set_date" && (
-                <div className="mt-4">
+                <div className="mt-3 sm:mt-4">
                   <input
                     type="date"
                     value={form.applicationDeadline}
@@ -743,18 +743,18 @@ export default function SubmitOpportunityFormModal({
                         applicationDeadline: e.target.value,
                       }))
                     }
-                    className="w-full rounded-2xl border border-[#d8cabc] px-4 py-3 text-sm outline-none"
+                    className="w-full rounded-xl border border-[#d8cabc] px-3.5 py-2.5 text-sm outline-none sm:rounded-2xl sm:px-4 sm:py-3"
                     disabled={isSubmitting}
                   />
                 </div>
               )}
             </div>
 
-            <div className="mt-8">
+            <div className="mt-6 sm:mt-8">
               <SectionLabel>
                 Program start <span className="text-red-600">*</span>
               </SectionLabel>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-1.5 sm:gap-2">
                 <PillButton
                   label="Set date"
                   selected={form.programStartMode === "set_date"}
@@ -785,7 +785,7 @@ export default function SubmitOpportunityFormModal({
               </div>
 
               {form.programStartMode === "set_date" && (
-                <div className="mt-4">
+                <div className="mt-3 sm:mt-4">
                   <input
                     type="date"
                     value={form.programStartDate}
@@ -795,14 +795,14 @@ export default function SubmitOpportunityFormModal({
                         programStartDate: e.target.value,
                       }))
                     }
-                    className="w-full rounded-2xl border border-[#d8cabc] px-4 py-3 text-sm outline-none"
+                    className="w-full rounded-xl border border-[#d8cabc] px-3.5 py-2.5 text-sm outline-none sm:rounded-2xl sm:px-4 sm:py-3"
                     disabled={isSubmitting}
                   />
                 </div>
               )}
 
               {form.programStartMode === "label" && (
-                <div className="mt-4">
+                <div className="mt-3 sm:mt-4">
                   <input
                     type="text"
                     value={form.programStartDateLabel}
@@ -812,7 +812,7 @@ export default function SubmitOpportunityFormModal({
                         programStartDateLabel: e.target.value,
                       }))
                     }
-                    className="w-full rounded-2xl border border-[#d8cabc] px-4 py-3 text-sm outline-none"
+                    className="w-full rounded-xl border border-[#d8cabc] px-3.5 py-2.5 text-sm outline-none sm:rounded-2xl sm:px-4 sm:py-3"
                     placeholder="July 2026 / Academic year / Not clearly stated"
                     disabled={isSubmitting}
                   />
@@ -820,11 +820,11 @@ export default function SubmitOpportunityFormModal({
               )}
             </div>
 
-            <div className="mt-8">
+            <div className="mt-6 sm:mt-8">
               <SectionLabel>
                 Program end <span className="text-red-600">*</span>
               </SectionLabel>
-              <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap gap-1.5 sm:gap-2">
                 <PillButton
                   label="Set date"
                   selected={form.programEndMode === "set_date"}
@@ -855,7 +855,7 @@ export default function SubmitOpportunityFormModal({
               </div>
 
               {form.programEndMode === "set_date" && (
-                <div className="mt-4">
+                <div className="mt-3 sm:mt-4">
                   <input
                     type="date"
                     value={form.programEndDate}
@@ -865,14 +865,14 @@ export default function SubmitOpportunityFormModal({
                         programEndDate: e.target.value,
                       }))
                     }
-                    className="w-full rounded-2xl border border-[#d8cabc] px-4 py-3 text-sm outline-none"
+                    className="w-full rounded-xl border border-[#d8cabc] px-3.5 py-2.5 text-sm outline-none sm:rounded-2xl sm:px-4 sm:py-3"
                     disabled={isSubmitting}
                   />
                 </div>
               )}
 
               {form.programEndMode === "label" && (
-                <div className="mt-4">
+                <div className="mt-3 sm:mt-4">
                   <input
                     type="text"
                     value={form.programEndDateLabel}
@@ -882,7 +882,7 @@ export default function SubmitOpportunityFormModal({
                         programEndDateLabel: e.target.value,
                       }))
                     }
-                    className="w-full rounded-2xl border border-[#d8cabc] px-4 py-3 text-sm outline-none"
+                    className="w-full rounded-xl border border-[#d8cabc] px-3.5 py-2.5 text-sm outline-none sm:rounded-2xl sm:px-4 sm:py-3"
                     placeholder="August 2026 / Varies / Not clearly stated"
                     disabled={isSubmitting}
                   />
@@ -890,8 +890,8 @@ export default function SubmitOpportunityFormModal({
               )}
             </div>
 
-            <div className="mt-8">
-              <label className="mb-2 block text-sm text-zinc-700">
+            <div className="mt-6 sm:mt-8">
+              <label className="mb-1.5 block text-sm text-zinc-700 sm:mb-2">
                 Description <span className="text-red-600">*</span>
               </label>
               <textarea
@@ -902,16 +902,16 @@ export default function SubmitOpportunityFormModal({
                     description: e.target.value,
                   }))
                 }
-                rows={7}
-                className="w-full rounded-2xl border border-[#d8cabc] px-4 py-3 text-sm outline-none"
+                rows={6}
+                className="w-full rounded-xl border border-[#d8cabc] px-3.5 py-2.5 text-sm outline-none sm:rounded-2xl sm:px-4 sm:py-3"
                 placeholder="Briefly describe the opportunity, who it is for, and anything important students should know."
                 disabled={isSubmitting}
               />
             </div>
 
-            <div className="mt-8 grid gap-4 sm:grid-cols-2">
+            <div className="mt-6 grid gap-3 sm:mt-8 sm:gap-4 sm:grid-cols-2">
               <div>
-                <label className="mb-2 block text-sm text-zinc-700">
+                <label className="mb-1.5 block text-sm text-zinc-700 sm:mb-2">
                   Image URL (optional)
                 </label>
                 <input
@@ -923,7 +923,7 @@ export default function SubmitOpportunityFormModal({
                       imageUrl: e.target.value,
                     }))
                   }
-                  className="w-full rounded-2xl border border-[#d8cabc] px-4 py-3 text-sm outline-none"
+                  className="w-full rounded-xl border border-[#d8cabc] px-3.5 py-2.5 text-sm outline-none sm:rounded-2xl sm:px-4 sm:py-3"
                   placeholder="Optional logo or image URL"
                   disabled={isSubmitting}
                 />
@@ -935,7 +935,7 @@ export default function SubmitOpportunityFormModal({
               </div>
 
               <div>
-                <label className="mb-2 block text-sm text-zinc-700">
+                <label className="mb-1.5 block text-sm text-zinc-700 sm:mb-2">
                   Extra notes
                 </label>
                 <textarea
@@ -947,20 +947,20 @@ export default function SubmitOpportunityFormModal({
                     }))
                   }
                   rows={4}
-                  className="w-full rounded-2xl border border-[#d8cabc] px-4 py-3 text-sm outline-none"
+                  className="w-full rounded-xl border border-[#d8cabc] px-3.5 py-2.5 text-sm outline-none sm:rounded-2xl sm:px-4 sm:py-3"
                   placeholder="Anything else you want included"
                   disabled={isSubmitting}
                 />
               </div>
             </div>
 
-            {error && <p className="mt-6 text-sm text-red-600">{error}</p>}
+            {error && <p className="mt-5 text-sm text-red-600 sm:mt-6">{error}</p>}
 
-            <div className="mt-8 flex flex-wrap gap-3">
+            <div className="mt-6 flex flex-wrap gap-2.5 sm:mt-8 sm:gap-3">
               <button
                 type="submit"
                 disabled={isSubmitting}
-                className="rounded-2xl bg-zinc-900 px-6 py-3.5 text-sm font-medium text-white transition hover:opacity-90 disabled:cursor-not-allowed disabled:opacity-60"
+                className="rounded-xl bg-zinc-900 px-5 py-2.5 text-sm font-medium text-white transition hover:opacity-90 disabled:cursor-not-allowed disabled:opacity-60 sm:rounded-2xl sm:px-6 sm:py-3.5"
               >
                 {isSubmitting ? "Submitting..." : "Submit opportunity"}
               </button>
@@ -969,7 +969,7 @@ export default function SubmitOpportunityFormModal({
                 type="button"
                 onClick={onClose}
                 disabled={isSubmitting}
-                className="rounded-2xl border border-zinc-300 px-6 py-3.5 text-sm font-medium text-zinc-700 transition hover:bg-zinc-50 disabled:cursor-not-allowed disabled:opacity-60"
+                className="rounded-xl border border-zinc-300 px-5 py-2.5 text-sm font-medium text-zinc-700 transition hover:bg-zinc-50 disabled:cursor-not-allowed disabled:opacity-60 sm:rounded-2xl sm:px-6 sm:py-3.5"
               >
                 Cancel
               </button>
@@ -979,7 +979,7 @@ export default function SubmitOpportunityFormModal({
       </div>
 
       {showSuccessModal && (
-        <div className="fixed inset-0 z-[120] flex items-center justify-center px-4">
+        <div className="fixed inset-0 z-[120] flex items-center justify-center px-3 sm:px-4">
           <button
             type="button"
             aria-label="Close success modal"
@@ -987,33 +987,33 @@ export default function SubmitOpportunityFormModal({
             className="absolute inset-0 bg-black/40 backdrop-blur-sm"
           />
 
-          <div className="relative z-[121] w-full max-w-md rounded-[28px] border border-[#d8cabc] bg-white p-6 shadow-[0_24px_70px_rgba(0,0,0,0.16)] sm:p-7">
+          <div className="relative z-[121] w-full max-w-md rounded-[22px] border border-[#d8cabc] bg-white p-5 shadow-[0_24px_70px_rgba(0,0,0,0.16)] sm:rounded-[28px] sm:p-7">
             <button
               type="button"
               onClick={() => setShowSuccessModal(false)}
-              className="absolute right-4 top-4 inline-flex h-9 w-9 items-center justify-center rounded-full text-zinc-400 transition hover:bg-zinc-100 hover:text-zinc-700"
+              className="absolute right-3 top-3 inline-flex h-8 w-8 items-center justify-center rounded-full text-zinc-400 transition hover:bg-zinc-100 hover:text-zinc-700 sm:right-4 sm:top-4 sm:h-9 sm:w-9"
             >
               <span className="text-2xl leading-none">×</span>
             </button>
 
-            <p className="text-sm font-medium uppercase tracking-[0.14em] text-zinc-400">
+            <p className="text-xs font-medium uppercase tracking-[0.14em] text-zinc-400 sm:text-sm">
               Submission received
             </p>
 
-            <h3 className="mt-3 text-2xl font-semibold tracking-tight text-zinc-900">
+            <h3 className="mt-2.5 text-xl font-semibold tracking-tight text-zinc-900 sm:mt-3 sm:text-2xl">
               Your submission has been sent for review
             </h3>
 
-            <p className="mt-3 text-sm leading-6 text-zinc-600">
+            <p className="mt-2.5 text-sm leading-6 text-zinc-600 sm:mt-3">
               Thank you. We’ll review your submission, and you will be emailed as
               soon as we have a status.
             </p>
 
-            <div className="mt-5">
+            <div className="mt-4 sm:mt-5">
               <button
                 type="button"
                 onClick={() => setShowSuccessModal(false)}
-                className="rounded-2xl bg-zinc-900 px-5 py-3 text-sm font-medium text-white transition hover:opacity-90"
+                className="rounded-xl bg-zinc-900 px-4 py-2.5 text-sm font-medium text-white transition hover:opacity-90 sm:rounded-2xl sm:px-5 sm:py-3"
               >
                 Okay
               </button>
