@@ -3,7 +3,6 @@
 import { useEffect, useMemo, useState } from "react";
 import FiltersPanel from "@/components/FiltersPanel";
 import OpportunityAccordionItem from "@/components/OpportunityAccordionItem";
-import { opportunities as fallbackOpportunities } from "@/data/opportunities";
 
 type FiltersState = {
   type: string[];
@@ -174,8 +173,7 @@ export default function OpportunitiesSection() {
   const [searchQuery, setSearchQuery] = useState("");
   const [sortBy, setSortBy] = useState<SortOption>("deadline");
   const [openOpportunityId, setOpenOpportunityId] = useState<number | null>(null);
-  const [opportunities, setOpportunities] =
-    useState<Opportunity[]>(fallbackOpportunities as Opportunity[]);
+  const [opportunities, setOpportunities] = useState<Opportunity[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [loadError, setLoadError] = useState("");
 
@@ -213,15 +211,15 @@ export default function OpportunitiesSection() {
 
         const data = await response.json();
 
-        if (isMounted && Array.isArray(data.opportunities)) {
-          setOpportunities(data.opportunities);
+        if (isMounted) {
+          setOpportunities(Array.isArray(data.opportunities) ? data.opportunities : []);
         }
       } catch (error) {
-        console.error("Using fallback opportunities data:", error);
+        console.error("Failed to load opportunities:", error);
 
         if (isMounted) {
-          setLoadError("Could not load live data. Showing local fallback data.");
-          setOpportunities(fallbackOpportunities as Opportunity[]);
+          setLoadError("Could not load opportunities right now.");
+          setOpportunities([]);
         }
       } finally {
         if (isMounted) {
@@ -361,10 +359,10 @@ export default function OpportunitiesSection() {
           eligibility on the official listing before applying.
         </p>
         {isLoading && (
-          <p className="mt-2 text-sm text-zinc-500">Loading live opportunities...</p>
+          <p className="mt-2 text-sm text-zinc-500">Loading opportunities...</p>
         )}
         {loadError && (
-          <p className="mt-2 text-sm text-amber-700">{loadError}</p>
+          <p className="mt-2 text-sm text-red-600">{loadError}</p>
         )}
       </div>
 
@@ -446,6 +444,12 @@ export default function OpportunitiesSection() {
         Showing {filteredOpportunities.length} opportunit
         {filteredOpportunities.length === 1 ? "y" : "ies"}
       </div>
+
+      {!isLoading && filteredOpportunities.length === 0 && (
+        <div className="rounded-[28px] border border-[#d8cabc] bg-white p-6 text-sm text-zinc-600">
+          No opportunities found.
+        </div>
+      )}
 
       <div className="space-y-4">
         {activeOpportunities.map((item) => (
