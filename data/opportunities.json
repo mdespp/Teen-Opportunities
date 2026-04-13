@@ -1,0 +1,5860 @@
+[
+  {
+    "id": 1,
+    "type": "Pre-College",
+    "title": "NYU Precollege (Summer)",
+    "location": "New York, NY / Online",
+    "modality": [
+      "Hybrid",
+      "In Person",
+      "Online"
+    ],
+    "applicationDeadline": "2026-06-15",
+    "applicationDeadlineLabel": "June 15, 2026",
+    "programStartDate": "2026-07-01",
+    "programStartDateLabel": "July 1, 2026",
+    "programEndDate": "2026-08-12",
+    "programEndDateLabel": "August 12, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "College Prep"
+    ],
+    "cost": [
+      "Tuition / Fee"
+    ],
+    "image": "",
+    "link": "https://www.nyu.edu/admissions/high-school-and-middle-school-programs/high-school-programs/nyu-precollege-program.html",
+    "description": "NYU's precollege program lets rising 11th and 12th graders take undergraduate courses for credit in New York City, with some online options in summer 2026.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 2,
+    "type": "Internship",
+    "title": "The Met Summer Internships for High School Students",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-03-13",
+    "applicationDeadlineLabel": "March 13, 2026",
+    "programStartDate": "2026-07-01",
+    "programStartDateLabel": "July 1, 2026",
+    "programEndDate": "2026-08-07",
+    "programEndDateLabel": "August 7, 2026",
+    "days": [
+      "Friday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "Arts",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.metmuseum.org/opportunities/internships/summer-internships-for-high-school-students",
+    "description": "Paid summer internship for students in grades 10 or 11 who live in or attend high school in New York, New Jersey, or Connecticut and want to explore museum careers.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 3,
+    "type": "Volunteering",
+    "title": "Brooklyn Public Library Teen Techies",
+    "location": "Brooklyn, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Rolling basis / unknown",
+    "programStartDate": "",
+    "programStartDateLabel": "Two-week summer workshop before service starts",
+    "programEndDate": "",
+    "programEndDateLabel": "At least 6 months of service after training",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Technology",
+      "Community",
+      "Education"
+    ],
+    "cost": [
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.bklynlibrary.org/support/volunteer/teen-techies",
+    "description": "Brooklyn Public Library's Teen Techies program trains teens in technology and then places them in library-based service helping patrons with computers and tech workshops.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 4,
+    "type": "Internship",
+    "title": "Brooklyn Botanic Garden Garden Apprentice Program",
+    "location": "Brooklyn, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Applications for the 2027 program open in October",
+    "programStartDate": "2027-03-01",
+    "programStartDateLabel": "March 2027",
+    "programEndDate": "2027-11-30",
+    "programEndDateLabel": "November 2027",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Environment",
+      "Science",
+      "Agriculture",
+      "Computer Science",
+      "Technology"
+    ],
+    "cost": [
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.bbg.org/learn/gap",
+    "description": "Nine-month teen apprenticeship in urban agriculture and environmental education at Brooklyn Botanic Garden. The next cycle noted on the page is the 2027 program, with applications opening in October. Programming happens once or twice a week in spring and fall and four days a week in the summer.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 5,
+    "type": "Volunteering",
+    "title": "Youth Action 50 (YA50)",
+    "location": "New York City, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Rolling basis / unknown",
+    "programStartDate": "",
+    "programStartDateLabel": "Not clearly stated",
+    "programEndDate": "",
+    "programEndDateLabel": "Not clearly stated",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Civics",
+      "Community",
+      "Leadership",
+      "Public Service",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.nycservice.org/youth-action-50",
+    "description": "A youth civic initiative that connects young people to YA50 host site organizations across New York City. Rather than one fixed program schedule, students join participating youth groups and take part in advocacy, service, and community work through those sites.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 6,
+    "type": "Workshop",
+    "title": "EFL Young Ambassadors Program",
+    "location": "New York, NY / Online",
+    "modality": [
+      "Hybrid",
+      "In Person",
+      "Online"
+    ],
+    "applicationDeadline": "2026-02-17",
+    "applicationDeadlineLabel": "February 17, 2026",
+    "programStartDate": "2025-06-09",
+    "programStartDateLabel": "June 9, 2025",
+    "programEndDate": "",
+    "programEndDateLabel": "Older cycle / no newer end date clearly stated",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Entrepreneurship",
+      "Technology",
+      "Science",
+      "Arts",
+      "STEM"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://endlessfrontierlabs.com/young-ambassadors/",
+    "description": "A free NYU Stern-linked program for Greater New York City high school students to attend EFL meeting days, shadow mentors, and learn from startups and investors. The dates currently shown are for an older cycle that opened June 9, 2025 and closed February 17, 2026.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 7,
+    "type": "Contest",
+    "title": "Founding Forward Youth Essay Contest",
+    "location": "Online",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-06-01",
+    "applicationDeadlineLabel": "June 1, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Writing",
+      "History",
+      "Civics"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://foundingforward.org/awards/youth-essay/",
+    "description": "National online essay contest with student topics tied to the Declaration of Independence. It is listed here only for high school grades.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 8,
+    "type": "Internship",
+    "title": "District 27 Internship Program",
+    "location": "Queens / New York City, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Rolling basis / unknown",
+    "programStartDate": "",
+    "programStartDateLabel": "Year-round with fall, spring, and summer cohorts",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies by cohort",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Public Service",
+      "Law",
+      "Public Policy",
+      "Community",
+      "Civics"
+    ],
+    "cost": [
+      "Not clearly stated"
+    ],
+    "image": "",
+    "link": "https://council.nyc.gov/nantasha-williams/councilmember-williams-internship-program/",
+    "description": "Year-round local government internship from Council Member Nantasha Williams's office, open to high school through graduate students.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 9,
+    "type": "Scholarship",
+    "title": "New York Life Golden Futures Scholarship",
+    "location": "National / Online",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-06-01",
+    "applicationDeadlineLabel": "June 1, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "General"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://scholarshipamerica.org/scholarship/nyl-golden-futures/",
+    "description": "National scholarship for current juniors and seniors who complete the required New York Life Golden Futures game modules.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 10,
+    "type": "Summer Program",
+    "title": "Columbia Double Discovery Center Summer Academy",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-12",
+    "applicationDeadlineLabel": "April 12, 2026",
+    "programStartDate": "2026-07-13",
+    "programStartDateLabel": "July 13, 2026",
+    "programEndDate": "2026-08-07",
+    "programEndDateLabel": "August 7, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10"
+    ],
+    "subjects": [
+      "College Prep",
+      "Writing",
+      "Research",
+      "STEM"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://ddc.columbia.edu/content/double-discovery-centers-summer-academy",
+    "description": "A free four-week commuter summer academic enrichment program for 9th and 10th grade New York City public high school students enrolled in Columbia's Double Discovery Center. The 2026 program runs from July 13, 2026 to August 7, 2026, with an application deadline of April 12, 2026. Students take courses in areas such as writing and STEM and attend wellness-focused workshops on Columbia's Morningside campus.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 11,
+    "type": "Summer Program",
+    "title": "Columbia Engineering the Next Generation (ENG)",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-03-01",
+    "applicationDeadlineLabel": "March 1, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-08-13",
+    "programEndDateLabel": "August 13, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 11"
+    ],
+    "subjects": [
+      "Research",
+      "STEM",
+      "Engineering"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://outreach.engineering.columbia.edu/eng",
+    "description": "A six-week paid summer research program for rising seniors who attend NYC schools and are interested in engineering and research. Columbia Engineering offers two tracks: Foundations of Research and the CS3 My Streetscape Summer Research Institute. For 2026, the application opened December 2, 2025. The FoR deadline was January 16, 2026, the CS3 deadline was March 1, 2026, decisions were released April 30, 2026, and the program runs from July 6, 2026 to August 13, 2026. Students receive a stipend, with listed pay of $17 per hour at 25 hours per week for the FoR track.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 12,
+    "type": "Fellowship",
+    "title": "Columbia Freedom and Citizenship",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-03-30",
+    "applicationDeadlineLabel": "March 30, 2026",
+    "programStartDate": "2026-06-29",
+    "programStartDateLabel": "June 29, 2026",
+    "programEndDate": "2027-05-03",
+    "programEndDateLabel": "May 3, 2027",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Sunday"
+    ],
+    "grades": [
+      "Grade 11"
+    ],
+    "subjects": [
+      "History",
+      "Civics",
+      "Writing",
+      "Public Service",
+      "Leadership"
+    ],
+    "cost": [
+      "Free",
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://freedomandcitizenship.columbia.edu/eligibility",
+    "description": "A free pre-college civic leadership program for New York City high school juniors. Students must be current juniors living in NYC and ready to commit to both the summer and academic year portions of the program. The 2026 summer session runs from June 29, 2026 to July 24, 2026, and the academic year runs from September 3, 2026 to May 3, 2027. Regular decision is March 30, 2026, with hearback on April 11, 2026. Students who successfully complete the 2026–2027 program receive a $2,500 stipend.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 13,
+    "type": "Afterschool Program",
+    "title": "Cooper Union Saturday Program",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-01-09",
+    "applicationDeadlineLabel": "January 9, 2026",
+    "programStartDate": "2026-01-24",
+    "programStartDateLabel": "January 24, 2026",
+    "programEndDate": "2026-04-04",
+    "programEndDateLabel": "April 4, 2026",
+    "days": [
+      "Saturday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Writing",
+      "Architecture",
+      "Design",
+      "College Prep"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://cooper.edu/academics/outreach-and-pre-college/saturday-program",
+    "description": "A free pre-college art and architecture program for New York City public and charter high school students. Classes run on Saturdays from 10:00 AM to 5:00 PM during the school year. For Spring 2026, applications were open through January 9, 2026, and the session ran from January 24, 2026 to April 4, 2026.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 14,
+    "type": "Afterschool Program",
+    "title": "Cooper Union STEM Saturdays",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-08-07",
+    "applicationDeadlineLabel": "August 7, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "2026–27 academic year",
+    "programEndDate": "",
+    "programEndDateLabel": "Not clearly stated",
+    "days": [
+      "Saturday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "STEM",
+      "Technology",
+      "Engineering",
+      "College Prep"
+    ],
+    "cost": [
+      "Free",
+      "Tuition / Fee"
+    ],
+    "image": "",
+    "link": "https://cooper.edu/engineering/stem/saturdays",
+    "description": "A STEM pre-college Saturday program for NYC students in grades 9 through 11. Classes meet in person on Saturdays from 10:00 AM to 4:00 PM at 41 Cooper Square. Applications for the 2025–26 cycle are closed, and the application for the 2026–27 academic year opens on August 7, 2026. Students from low- or moderate-income households may be eligible to attend for free, while listed course costs for the 2025–26 year ranged from $2,000 to $3,000.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 15,
+    "type": "Course",
+    "title": "FIT High School Summer 10-Day Courses",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-06-10",
+    "applicationDeadlineLabel": "June 10, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-07-21",
+    "programEndDateLabel": "July 21, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Business",
+      "Media",
+      "College Prep"
+    ],
+    "cost": [
+      "Tuition / Fee"
+    ],
+    "image": "",
+    "link": "https://www.fitnyc.edu/academics/precollege/classes/high-school-summer-live/index.php",
+    "description": "FIT's High School Summer 10-Day Courses are part of its precollege program and are taught by FIT professionals on the NYC campus in the Fashion District. Students in grades 9 through 12 as of fall 2026 can enroll in one or two 10-day classes. Registration starts February 4, 2026 and ends June 10, 2026. Classes run July 6, 7, 8, 9, 13, 14, 15, 16, 20, and 21, 2026. One 10-day class costs $550 with all fees.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 16,
+    "type": "Summer Program",
+    "title": "Cornell AAP City Visionaries",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-17",
+    "applicationDeadlineLabel": "April 17, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-08-07",
+    "programEndDateLabel": "August 7, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Research",
+      "Environment"
+    ],
+    "cost": [
+      "Tuition / Fee"
+    ],
+    "image": "",
+    "link": "https://aap.cornell.edu/aap-summer-programs/nyc-high-school-summer-program/",
+    "description": "A non-credit summer program at Cornell Tech for rising high school juniors and seniors interested in the built environment and the design of cities. Admission requires a 3.3 GPA or above. Applications open December 1, 2025, with an early deadline of February 27, 2026 and a regular deadline of April 17, 2026. Tuition is $13,000 and the application fee is $45.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 17,
+    "type": "Workshop",
+    "title": "Hawthornden Brooklyn Young Writers’ Workshop",
+    "location": "Brooklyn, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-01",
+    "applicationDeadlineLabel": "Unknown",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-08-14",
+    "programEndDateLabel": "August 14, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Writing"
+    ],
+    "cost": [
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.hawthornden.org/young-writers-workshop-2026",
+    "description": "A creative writing workshop series for students currently attending New York City public high schools and entering grades 10, 11, or 12. The Summer 2026 cycle has already ended its application period. Hawthornden offered three separate ten-day workshops: Poetry from July 6 to July 17, Fiction from July 20 to July 31, and Creative Nonfiction from August 3 to August 14. Students received a $1,000 stipend.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 18,
+    "type": "Summer Program",
+    "title": "Fordham Summer Leaders Academy",
+    "location": "Bronx, NY",
+    "modality": [
+      "In Person",
+      "Online"
+    ],
+    "applicationDeadline": "2026-05-29",
+    "applicationDeadlineLabel": "May 1, 2026",
+    "programStartDate": "2026-06-22",
+    "programStartDateLabel": "June 22, 2026",
+    "programEndDate": "2026-07-31",
+    "programEndDateLabel": "July 31, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Business",
+      "STEM",
+      "Arts"
+    ],
+    "cost": [
+      "Tuition / Fee"
+    ],
+    "image": "",
+    "link": "https://www.fordham.edu/summer-session/pre-college-programs/",
+    "description": "Fordham's Summer Leaders Academy has separate deadlines for different options: the resident application deadline is May 1, 2026, while the commuter application usually extends further.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 19,
+    "type": "Summer Program",
+    "title": "Columbia SHAPE",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-03-02",
+    "applicationDeadlineLabel": "March 2, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-08-14",
+    "programEndDateLabel": "August 14, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "STEM",
+      "Engineering",
+      "Research",
+      "College Prep",
+      "General"
+    ],
+    "cost": [
+      "Tuition / Fee"
+    ],
+    "image": "",
+    "link": "https://outreach.engineering.columbia.edu/content/shape-summer-high-school-academic-program-engineers",
+    "description": "Columbia Engineering’s Summer High School Academic Program for Engineers is a pre-college program for current high school students. Students can attend one or both three-week summer sessions. Summer 2026 applications opened November 25, 2025 and closed March 2, 2026, with a final materials deadline of March 9, 2026. The two sessions run July 6 to July 24, 2026 and July 27 to August 14, 2026. SHAPE offers project-based courses, electives, workshops, and company visits. Summer 2026 commuter tuition is listed at $6,241 per session, with need-based scholarships available.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 20,
+    "type": "Fellowship",
+    "title": "Japan Society Junior Fellows Leadership Program",
+    "location": "New York, NY / Japan",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-02-27",
+    "applicationDeadlineLabel": "February 27, 2026",
+    "programStartDate": "2026-06-30",
+    "programStartDateLabel": "June 30, 2026",
+    "programEndDate": "2026-08-19",
+    "programEndDateLabel": "August 19, 2026",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "Leadership",
+      "History",
+      "Culture",
+      "College Prep"
+    ],
+    "cost": [
+      "Tuition / Fee"
+    ],
+    "image": "",
+    "link": "https://japansociety.org/teacher-k-16/junior-fellows/",
+    "description": "A culturally immersive pre-college leadership program that takes place in Japan for 10 selected high school students in grades 9 through 11 at the time of application. The 2026 program runs from June 30, 2026 to July 15, 2026, with a post-program event on August 19, 2026. Students meet leaders from Japan and the United States, complete a project tied to a global issue, live with a Japanese host family, experience Japanese school life, visit cultural and historic sites, and take introductory Japanese lessons. Tuition is $3,800, and need-based financial aid is available.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 21,
+    "type": "Summer Program",
+    "title": "Civic Hall Summer STEM & Innovation Program",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-17",
+    "applicationDeadlineLabel": "April 17, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-07-31",
+    "programEndDateLabel": "July 31, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "STEM",
+      "Technology",
+      "Media",
+      "AI",
+      "Civics"
+    ],
+    "cost": [
+      "Free",
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://www.civichall.org/summer-camp#why-join",
+    "description": "A free four-week STEM and innovation program for middle and high school students at Civic Hall’s Bernard Goldstein Center in Union Square. High school students enroll in the full four-week program, which runs from July 6, 2026 to July 31, 2026, Monday through Friday from 8:30 AM to 4:00 PM. Students explore coding, AI, robotics, game design, digital media, and emerging technologies. Students first submit interest, and a full application is shared at the next stage of review by April 17, 2026. The top five high school capstone projects each receive a $1,000 scholarship.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 22,
+    "type": "Internship",
+    "title": "Manhattan DA High School Internship Program",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-03-01",
+    "applicationDeadlineLabel": "March 2026 (exact date not clearly stated)",
+    "programStartDate": "2026-06-29",
+    "programStartDateLabel": "June 29, 2026",
+    "programEndDate": "2026-07-31",
+    "programEndDateLabel": "July 31, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Law",
+      "Public Service",
+      "Criminal Justice",
+      "Arts",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://manhattanda.org/careers/internship-and-fellowship-opportunities/high-school-internship-program/",
+    "description": "A rigorous five-week internship from the Manhattan District Attorney’s Office that gives students an insider’s view of the criminal justice system. Applicants must reside in Manhattan, be current juniors or seniors, and commit to the full session from June 29, 2026 to July 31, 2026. Interns participate in person Monday through Friday from 9:30 AM to 4:30 PM and are paid minimum wage.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 23,
+    "type": "Workshop",
+    "title": "NYU Urban Journalism Workshop",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-03-18",
+    "applicationDeadlineLabel": "March 18, 2026",
+    "programStartDate": "2026-07-12",
+    "programStartDateLabel": "July 12, 2026",
+    "programEndDate": "2026-07-18",
+    "programEndDateLabel": "July 18, 2026",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Writing",
+      "Media",
+      "Journalism"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://journalism.nyu.edu/our-work/institute-projects/urban-journalism-workshop/",
+    "description": "A free journalism workshop for high school students in the New York City metropolitan area, including students from New York, New Jersey, and Connecticut. Students must be at least 16 years old to be eligible. The 2026 program runs from July 12, 2026 to July 18, 2026, and the application deadline is March 18, 2026. Admitted students live in an NYU dorm, receive hands-on journalism instruction, report and produce multimedia stories, and visit major newsrooms.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 24,
+    "type": "Pre-College",
+    "title": "Pratt Summer PreCollege Intensive",
+    "location": "Brooklyn, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-01",
+    "applicationDeadlineLabel": "May 1, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-07-31",
+    "programEndDateLabel": "July 31, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Writing",
+      "Architecture",
+      "Design",
+      "College Prep"
+    ],
+    "cost": [
+      "Tuition / Fee"
+    ],
+    "image": "",
+    "link": "https://www.pratt.edu/continuing-and-professional-studies/precollege/summer-precollege/",
+    "description": "A four-week pre-college intensive on Pratt's Brooklyn campus in art, design, architecture, and writing. Students take two credit-bearing classes and earn four college credits. Summer 2026 runs from July 6, 2026 to July 31, 2026. The scholarship application deadline is February 1, 2026, the international student deadline is April 1, 2026, and the rolling application deadline is May 1, 2026. Pratt lists commuter tuition at $5,452 and residential tuition at $8,192, plus a $65 non-refundable application fee.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 25,
+    "type": "Internship",
+    "title": "NYCSCA High School Summer Internship Program",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-03-06",
+    "applicationDeadlineLabel": "March 6, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-08-14",
+    "programEndDateLabel": "August 14, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Engineering",
+      "Business",
+      "Public Service",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "http://nycsca.org/Careers/internship-Program#High-School-Summer-Internship-Program-78",
+    "description": "A six-week paid internship from the New York City School Construction Authority for NYC public high school students. The online application is open from January 5, 2026 through March 6, 2026. The program runs from July 6, 2026 to August 14, 2026, Monday through Friday from 9:00 AM to 4:00 PM. Students are paid $17 an hour for 30 hours a week.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 26,
+    "type": "Scholarship",
+    "title": "Walter A. Hunt, Jr. Scholarship",
+    "location": "New York, NY",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-05-11",
+    "applicationDeadlineLabel": "May 11, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [],
+    "grades": [
+      "Grade 12"
+    ],
+    "subjects": [
+      "Architecture",
+      "Arts",
+      "Design",
+      "General"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://www.centerforarchitecture.org/scholarships-grants/walter-a-hunt-jr-scholarship/",
+    "description": "A scholarship for current New York City public high school seniors who have been accepted to a 5-year Bachelor of Architecture program at a NAAB-accredited school in the U.S. The application deadline is May 11, 2026. The award is $10,000 per year for two years, with the second year contingent on successful completion of the first year.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 27,
+    "type": "Course",
+    "title": "Juilliard Music Theory and Ear Training for High School Students",
+    "location": "New York, NY / Online",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-06-11",
+    "applicationDeadlineLabel": "June 11, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-08-19",
+    "programEndDateLabel": "August 19, 2026",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Music",
+      "College Prep"
+    ],
+    "cost": [
+      "Tuition / Fee"
+    ],
+    "image": "",
+    "link": "https://www.juilliard.edu/stage-beyond/juilliard-extension/music-theory-and-ear-training-high-school-students",
+    "description": "A Juilliard Extension pre-college online program for high school students ages 14 to 18 focused on music theory and ear training. The Summer 2026 semester runs from July 6, 2026 to August 19, 2026, and the application deadline is June 11, 2026. Applications are processed on a first-come, first-served basis, and students may apply for Music Theory, Ear Training, or both.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 28,
+    "type": "Summer Program",
+    "title": "Playwrights Horizons High School Summer Theater Intensive",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Rolling basis",
+    "programStartDate": "2026-06-15",
+    "programStartDateLabel": "June 15, 2026",
+    "programEndDate": "2026-07-24",
+    "programEndDateLabel": "July 24, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Writing",
+      "Theater",
+      "General"
+    ],
+    "cost": [
+      "Tuition / Fee"
+    ],
+    "image": "",
+    "link": "https://www.playwrightshorizons.org/about/community-engagement/high-school-summer-theater-intensive",
+    "description": "A two-week summer theater intensive for high school students passionate about theater. The 2026 program has two sessions: June 15 to June 26 and July 13 to July 24, 2026. Applications are accepted on a rolling basis, with finalists interviewed in early to mid March and offers going out in late March. The standard registration fee is $5,000, and a limited number of full and partial scholarships are available.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 29,
+    "type": "Course",
+    "title": "Baruch STEP Math Intensive Regents Prep Program",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-10",
+    "applicationDeadlineLabel": "April 10, 2026",
+    "programStartDate": "2026-05-09",
+    "programStartDateLabel": "May 9, 2026",
+    "programEndDate": "2026-06-06",
+    "programEndDateLabel": "June 6, 2026",
+    "days": [
+      "Saturday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Math",
+      "STEM"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://step.baruch.cuny.edu/",
+    "description": "A free Baruch STEP Regents prep program in Algebra 1, Algebra 2, and Geometry. The application deadline is April 10, 2026. The program meets on May 9, May 16, May 30, and June 6, 2026.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 30,
+    "type": "Summer Program",
+    "title": "Baruch STEP Summer 2026 Program",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-01",
+    "applicationDeadlineLabel": "May 1, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-07-30",
+    "programEndDateLabel": "July 30, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "STEM",
+      "Science",
+      "Technology",
+      "Research",
+      "Law"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://step.baruch.cuny.edu/summer-program/",
+    "description": "A free four-week Baruch STEP summer pre-college program for eligible rising high school students interested in STEM. The priority deadline is April 15, 2026 and the regular deadline is May 1, 2026. The program runs Monday through Thursday from July 6, 2026 to July 30, 2026, from 9:30 AM to 2:00 PM. Students enroll in one course and participate in the annual Summer Showcase. For Summer 2026, the high school program lists courses such as Anatomy & Physiology, Coding, Cognitive Neuroscience, Cognitive Psychology, and Environmental Sustainability, Policy, & Justice.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 31,
+    "type": "Summer Program",
+    "title": "Fordham STEP Summer Program",
+    "location": "Bronx, NY / New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-15",
+    "applicationDeadlineLabel": "April 15, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-07-30",
+    "programEndDateLabel": "July 30, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "STEM",
+      "Health",
+      "College Prep"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.fordham.edu/academics/academic-resources/step/step-summer-program/",
+    "description": "A Fordham STEP summer program for eligible New York State students with two campus options. The 2026 program runs from July 6, 2026 to July 30, 2026, Monday through Thursday. The application deadline is April 15, 2026. At Rose Hill in the Bronx, the program runs from 9:15 AM to 4:30 PM at 441 E Fordham Rd. At Lincoln Center in Manhattan, the program runs from 9:30 AM to 3:40 PM at 113 W 60th St. Students receive math and science enrichment, exposure to STEM and health professions, mentoring and tutoring from Fordham undergraduates, advising, Thursday field trips, and service-learning activities. Applicants must be rising 8th through 12th graders, meet STEP income guidelines, be available for all program dates, and have an 85 average in math and science with overall good academic standing. The page says there is no application fee.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 32,
+    "type": "Event",
+    "title": "NYRR Run for the Future",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-17",
+    "applicationDeadlineLabel": "April 17, 2026",
+    "programStartDate": "2026-06-13",
+    "programStartDateLabel": "June 13, 2026",
+    "programEndDate": "2026-08-08",
+    "programEndDateLabel": "August 8, 2026",
+    "days": [
+      "Monday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Health",
+      "Leadership",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.nyrr.org/youth/youth-initiatives/nyrr-run-for-the-future",
+    "description": "A free six-week running and wellness program for rising 10th through 12th grade young women in New York City. Applications are open from February 19, 2026 to April 17, 2026. The program orientation is June 13, 2026, and practices run Monday, Wednesday, and Thursday from June 29, 2026 through August 8, 2026, with the culminating event being the Percy Sutton Harlem 5K on August 8, 2026. Participants receive New Balance running gear and sneakers, an OMNY card, snacks, and a wellness kit.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 33,
+    "type": "Course",
+    "title": "Baruch College Now Summer 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-24",
+    "applicationDeadlineLabel": "April 24, 2026",
+    "programStartDate": "2026-07-13",
+    "programStartDateLabel": "July 13, 2026",
+    "programEndDate": "2026-08-13",
+    "programEndDateLabel": "August 13, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "College Prep",
+      "Finance"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://collegenow.baruch.cuny.edu/",
+    "description": "A free Baruch College Now summer dual-enrollment program for rising juniors and seniors who attend NYC public schools. The Summer 2026 application deadline is April 24, 2026, and the semester runs from July 13, 2026 to August 13, 2026. Listed in-person courses include Intro to Cultural Anthropology, Speech Communication, Introductory Sociology, Personal Finance, and The Evolution and Expressions of Racism. Applicants generally need an 80+ GPA and a 75+ ELA Regents score if applicable, though students below an 80 GPA may still apply with a school staff recommendation letter.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 34,
+    "type": "Course",
+    "title": "John Jay College Now Forensic Science Summer Institute",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-06-15",
+    "applicationDeadlineLabel": "June 15, 2026",
+    "programStartDate": "2026-07-13",
+    "programStartDateLabel": "July 13, 2026",
+    "programEndDate": "2026-08-07",
+    "programEndDateLabel": "August 7, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Science",
+      "Research",
+      "STEM",
+      "Criminal Justice",
+      "College Prep"
+    ],
+    "cost": [
+      "Free",
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.jjay.cuny.edu/academics/undergraduate-programs/academic-success-programs/high-school-students/college-now/our-summer-courses",
+    "description": "A free John Jay College Now summer program for rising 11th and 12th grade NYC public high school students. Summer registration opens April 1, 2026 and closes June 15, 2026 at 4:00 PM. The Forensic Science Summer Institute runs from July 13, 2026 to August 7, 2026, Monday through Thursday from 10:00 AM to 3:00 PM. Successful students earn 4.5 college credits and an SYEP stipend of $1,575 upon satisfactory completion of the program.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 35,
+    "type": "Course",
+    "title": "City Tech College Now Summer 2026",
+    "location": "Brooklyn, NY",
+    "modality": [
+      "In Person",
+      "Online"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Rolling basis, until all seats are filled",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-07-30",
+    "programEndDateLabel": "July 30, 2026",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "College Prep",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.citytech.cuny.edu/collegenow/app",
+    "description": "A free City Tech College Now summer program for NYC DOE public high school students who are rising 10th, 11th, or 12th graders. Applications are considered on a rolling basis until all seats are filled. The Summer 2026 semester runs from July 6, 2026 to July 30, 2026. Applicants generally need an overall high school GPA of 80 or higher, and students from partner high schools receive priority.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 36,
+    "type": "Course",
+    "title": "Queensborough College Now Summer 2026",
+    "location": "Queens, NY",
+    "modality": [
+      "In Person",
+      "Online"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Applications currently being accepted",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Not clearly stated",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "College Prep"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.qcc.cuny.edu/collegeNow/ApplyNow.html",
+    "description": "A free Queensborough College Now program for juniors and seniors who attend New York City public schools. Queensborough says it is currently accepting applications for the summer and fall 2026 semesters.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 37,
+    "type": "Course",
+    "title": "College of Staten Island College Now Summer 2026",
+    "location": "Staten Island, NY",
+    "modality": [
+      "In Person",
+      "Online"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Applications accepted until classes are full",
+    "programStartDate": "2026-06-30",
+    "programStartDateLabel": "June 30, 2026",
+    "programEndDate": "2026-07-23",
+    "programEndDateLabel": "July 23, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "College Prep"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.csi.cuny.edu/academics-and-research/specialized-programs/high-school-programs/college-now",
+    "description": "A free College Now summer program for rising 10th, 11th, and 12th grade Staten Island public high school students. Summer 2026 classes begin June 30, 2026 and end July 23, 2026. Classes are held Mondays through Thursdays and are offered either on CSI's Willowbrook campus or remotely in synchronous format. Applications are reviewed in the order they are received and are accepted until classes are full, up until the first day of classes.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 38,
+    "type": "Course",
+    "title": "BMCC College Now Summer 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person",
+      "Online"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Currently accepting applications",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Not clearly stated",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "College Prep",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.bmcc.cuny.edu/academics/success-programs/college-now/college-now-classes/",
+    "description": "A free BMCC College Now program for sophomores, juniors, and seniors in grades 10 through 12. BMCC is currently accepting applications for College Now 2026, with admission on a first-come, first-served basis and priority for partner school applicants. Eligibility requirements listed on the page include minimum ELA and Regents or test-score benchmarks depending on grade level and course. Summer 2026 course offerings are posted on the page.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 39,
+    "type": "Summer Program",
+    "title": "Bossgirls Summer 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-01",
+    "applicationDeadlineLabel": "April 1, 2026",
+    "programStartDate": "2026-06-29",
+    "programStartDateLabel": "June 29, 2026",
+    "programEndDate": "2026-07-30",
+    "programEndDateLabel": "July 30, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Business",
+      "Leadership",
+      "Entrepreneurship",
+      "College Prep"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.ccny.cuny.edu/zahn/bossgirls",
+    "description": "A free entrepreneurship program from the Zahn Innovation Center at The City College of New York for current 9th through 12th grade girls and nonbinary students. The 2026 summer program is hosted in person at CCNY and runs from June 29, 2026 to July 30, 2026. It meets Mondays through Thursdays, with Week 1 and Week 5 running from 10:00 AM to 3:00 PM and Weeks 2 through 4 running from 10:00 AM to 1:00 PM. Applications for Summer 2026 have closed.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 40,
+    "type": "Course",
+    "title": "Hunter College Now Summer",
+    "location": "New York, NY",
+    "modality": [
+      "In Person",
+      "Hybrid"
+    ],
+    "applicationDeadline": "2026-04-24",
+    "applicationDeadlineLabel": "April 24, 2026",
+    "programStartDate": "2026-07-13",
+    "programStartDateLabel": "July 13, 2026",
+    "programEndDate": "2026-08-18",
+    "programEndDateLabel": "August 18, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "Science",
+      "STEM",
+      "Arts",
+      "College Prep"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.hunter.cuny.edu/students/opportunities/college-now/how-to-apply/apply-now/",
+    "description": "A free Hunter College Now Summer for current 10th and 11th grade NYC public high school students. The summer application deadline is April 24, 2026. Applications are reviewed on a space-available basis starting April 27, 2026, notification letters are emailed May 8, 2026, and students must RSVP by May 22, 2026. The mandatory orientation is July 13, 2026, summer courses begin July 14, 2026, and the program ends August 18, 2026. Summer 2026 courses are offered in person or in hybrid format.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 41,
+    "type": "Course",
+    "title": "Bronx Community College College Now Summer 2026",
+    "location": "Bronx, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-15",
+    "applicationDeadlineLabel": "April 15, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Not clearly stated",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "College Prep",
+      "Arts",
+      "Community"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.bcc.cuny.edu/academics/college-prep-courses/college-now/",
+    "description": "A free Bronx Community College College Now program for qualified NYC public high school students. The Summer College Now application opens March 27, 2026 and closes April 15, 2026. Students can experience campus life, use BCC facilities, and take part in academic, social, and cultural events through the program.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 42,
+    "type": "Scholarship",
+    "title": "Girl Scouts of Greater New York Scholarships",
+    "location": "New York, NY",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-04-12",
+    "applicationDeadlineLabel": "April 12, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Leadership",
+      "STEM",
+      "Arts",
+      "Community Service",
+      "Civics"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://www.girlscoutsnyc.org/en/members/for-girl-scouts/scholarships.html",
+    "description": "Scholarship opportunities for eligible Girl Scouts of Greater New York members. Current offerings listed on the page include the Dr. Harry Britenstool Scholarship for graduating high school seniors planning careers in medicine, science, or citizenship; the Carmen Dubroc Bright Future Scholarship for registered members ages 14 to 18 interested in the arts, education, civil service, the nonprofit sector, or STEM; and the GSUSA Gold Award Scholarship for eligible high school seniors or recent graduates who earned the Gold Award. The Britenstool and Carmen Dubroc scholarships have an application deadline of April 12, 2026, and the GSUSA Gold Award Scholarship deadline is April 14, 2026.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 43,
+    "type": "Scholarship",
+    "title": "EMH 2026 Scholarship",
+    "location": "Queens, NY",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-04-03",
+    "applicationDeadlineLabel": "April 3, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 12"
+    ],
+    "subjects": [
+      "Health",
+      "Science",
+      "Education",
+      "Law",
+      "Media"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://www.emhinc.org/emh2026scholarship",
+    "description": "A scholarship program for Queens residents, including 12th grade high school graduating seniors accepted as college or university freshmen or into a vocational program for the 2026–2027 academic year. The deadline is April 3, 2026. Applicants must maintain residence in Queens, meet academic requirements, and complete the required essays, recommendations, and transcript submission. The program includes multiple scholarship categories in fields such as health and science, education, law, media and technology, arts, and vocational training.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 44,
+    "type": "Scholarship",
+    "title": "ABENY Inc. Scholarship 2026",
+    "location": "New York, NY",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-04-30",
+    "applicationDeadlineLabel": "April 30, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 12"
+    ],
+    "subjects": [
+      "Leadership",
+      "Community Service",
+      "Law",
+      "Arts",
+      "General"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://abenyinc.wildapricot.org/ABENY-Inc-2026-Scholarship-Application",
+    "description": "A scholarship program for eligible New York City public and charter school seniors graduating from vocational, academic, general, comprehensive, or alternative schools, as well as students receiving an equivalency diploma from a public evening school or a New York City Board of Education alternative educational program. Applications and supporting documents must be emailed by April 30, 2026 to Dr. Sheilah Bobo. Awards include several $1,000 scholarships and two four-year scholarships of $4,000 each: the Dr. Camille Taylor Scholarship and the Gregory Ilaw Scholarship.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 45,
+    "type": "Scholarship",
+    "title": "Bronx Alumnae Chapter Scholarship Program",
+    "location": "Bronx, NY",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-02-13",
+    "applicationDeadlineLabel": "February 13, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 12"
+    ],
+    "subjects": [
+      "Leadership",
+      "Community Service",
+      "Arts",
+      "College Prep",
+      "General"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://dstbx.org/scholarship/",
+    "description": "A scholarship program for Bronx high school seniors entering college. The Bronx Alumnae Chapter awards one four-year $10,000 scholarship, disbursed at $1,250 per semester, plus several one-time scholarship grants ranging from $500 to $1,000. Applicants must plan to attend a four-year college in Fall 2026, have a minimum overall B average, participate in extracurricular activities, and reside in the Bronx. The February 13, 2026 deadline has passed.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 46,
+    "type": "Scholarship",
+    "title": "UBGA 2026 Scholarship Application",
+    "location": "New York, NY",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-05-29",
+    "applicationDeadlineLabel": "May 29, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 12"
+    ],
+    "subjects": [
+      "Community Service",
+      "College Prep",
+      "Sports",
+      "General"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://ubga.org/scholarships/",
+    "description": "A scholarship program from the United Black Golfers Association, Inc. for New York City high school seniors graduating in June 2026. UBGA will offer eight $1,000 scholarships. Applicants must live and attend school in New York City, have at least a 75 percent or C average, be accepted and registered for college or trade school in fall 2026, provide proof of acceptance, and submit their completed application and official high school transcript by May 29, 2026.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 47,
+    "type": "Scholarship",
+    "title": "Kappa Epsilon Zeta Scholarship Fund",
+    "location": "Bronx, NY",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-04-15",
+    "applicationDeadlineLabel": "April 15, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 12"
+    ],
+    "subjects": [
+      "Community Service",
+      "Community",
+      "General"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://kappaepsilonzeta.org/kezscholarshipfund/html/apply.html",
+    "description": "A scholarship fund with preference for students who attend high school and/or live in the Bronx and who have performed community service. The application period runs from January 16 to April 15 each year, and completed application packages must be postmarked by April 15, 2026.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 48,
+    "type": "Course",
+    "title": "Kingsborough College Now Summer Culinary Program 2026",
+    "location": "Brooklyn, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Applications open in April; limited spots available",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-07-30",
+    "programEndDateLabel": "July 30, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Business",
+      "Career Exploration",
+      "Community",
+      "College Prep"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.kbcc.cuny.edu/collegenow/summer_programs/index2.html",
+    "description": "A free Kingsborough Community College Now summer culinary program in Brooklyn. The page says applications will begin accepting submissions in April and that spots are limited. The Summer Culinary Program 2026 runs from July 6, 2026 to July 30, 2026, Monday through Thursday, and students earn 3 free college credits in Introduction to Professional Food Service.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 49,
+    "type": "Scholarship",
+    "title": "Brooklyn Alumnae Chapter Scholarships and Awards",
+    "location": "Brooklyn, NY",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-04-13",
+    "applicationDeadlineLabel": "April 13, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 12"
+    ],
+    "subjects": [
+      "Community Service",
+      "General"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://www.brooklynalumnaedst.org/scholarships",
+    "description": "A scholarship and awards program from the Brooklyn Alumnae Chapter of Delta Sigma Theta for qualifying students who reside in Brooklyn. Applications must be postmarked or electronically submitted by April 13, 2026. The chapter offers several awards, including renewable four-year scholarships for eligible students.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 50,
+    "type": "Scholarship",
+    "title": "Dedalus Foundation High School Scholarship",
+    "location": "New York, NY",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-04-23",
+    "applicationDeadlineLabel": "April 23, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "History",
+      "College Prep",
+      "General"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://dedalusfoundation.org/programs/fellowships-awards/view/high-school-scholarship/",
+    "description": "A scholarship for graduating New York City public high school seniors, including charter school students, who show artistic excellence and plan to study fine arts or art history in college. The 2026 application deadline is April 23, 2026 at 5:00 PM. The scholarship awards ten students a $3,000 stipend for educational expenses.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 51,
+    "type": "Scholarship",
+    "title": "Helping Hand Grant Scholarships",
+    "location": "Brooklyn, NY",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-05-15",
+    "applicationDeadlineLabel": "May 15, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 12"
+    ],
+    "subjects": [
+      "Community Service",
+      "General"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://easternusa.salvationarmy.org/greater-new-york/helping-hand-grant/",
+    "description": "A one-time scholarship grant from The Salvation Army Brooklyn Brownsville Corps for graduating high school seniors from the Brownsville and East New York communities. The 2026 application deadline is May 15, 2026. The award is up to $500, and applicants must attend one of the listed Brownsville or East New York area schools and have at least a 2.3 GPA.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 52,
+    "type": "Scholarship",
+    "title": "Future Leaders Scholarship Program",
+    "location": "New York, NY",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Not clearly stated",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 12"
+    ],
+    "subjects": [
+      "Leadership",
+      "Community Service",
+      "College Prep",
+      "General"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://thompsonfamilyfund.org/featured-organizations/future-leaders-scholarship-program/",
+    "description": "A scholarship program for NYC high school seniors residing in a DHS shelter at the time of application submission. Applicants must have a minimum GPA of 2.5 on a 4.0 scale or provide IEP documentation supporting learning needs, a high school attendance rate of 90 percent or higher, and plans to enroll full-time in an accredited two-year or four-year college or university for the full academic year. The program awards scholarships valued at $8,000 over eight semesters, which may be used for tuition, books, or other educational expenses. The public page does not clearly list a 2026 application deadline.",
+    "createdAt": "2026-04-09",
+    "connectedUsers": []
+  },
+  {
+    "id": 53,
+    "type": "Summer Program",
+    "title": "CCNY STEM Institute Summer 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-31",
+    "applicationDeadlineLabel": "May 31, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-08-07",
+    "programEndDateLabel": "August 7, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "STEM",
+      "Computer Science",
+      "Math",
+      "Humanities",
+      "Finance"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://steminstitutenyc.org/",
+    "description": "A free in-person summer program at CCNY for students in grades 9 through 12. Summer 2026 runs Monday through Thursday from July 6, 2026 to August 7, 2026, with classroom instruction, lunch, and hands-on projects. High school students can choose from courses including App Development & Entrepreneurship, Calculus I, English Dialogue Through Philosophy, Financial Management, Ideas of Physics, and Robotics & Rocketry. The application deadline is May 31, 2026. The program does not provide stipends directly, but some students may be paid through SYEP if placed there through an approved provider.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 54,
+    "type": "Workshop",
+    "title": "Open Stage Project Act 1",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Rolling admission",
+    "programStartDate": "",
+    "programStartDateLabel": "Varies",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Media",
+      "Career Exploration",
+      "Theater"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.openstageproject.org/program",
+    "description": "A free 90-minute introductory Open Stage Project experience for New York City high school students, parents, and teachers. Participants attend an interactive panel led by entertainment professionals to learn about behind-the-scenes careers. The site lists rolling admission.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 55,
+    "type": "Afterschool Program",
+    "title": "Open Stage Project Act 2",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-08-01",
+    "applicationDeadlineLabel": "August 1, 2026",
+    "programStartDate": "2026-09-01",
+    "programStartDateLabel": "September 2026",
+    "programEndDate": "2027-05-31",
+    "programEndDateLabel": "May 2027",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Media",
+      "Career Exploration",
+      "Leadership",
+      "Theater"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.openstageproject.org/program",
+    "description": "A free nine-month afterschool program for New York City female-identifying and non-binary high school sophomores, juniors, and seniors. It includes field trips, monthly skill-building workshops, one-on-one mentoring, Broadway shows and Q&As, and a capstone design presentation. Applications are open May 1, 2026 through August 1, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 56,
+    "type": "Internship",
+    "title": "Open Stage Project Act 3 Fellowship",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-03-01",
+    "applicationDeadlineLabel": "March 1, 2026",
+    "programStartDate": "2026-06-01",
+    "programStartDateLabel": "June 1, 2026",
+    "programEndDate": "2026-07-31",
+    "programEndDateLabel": "July 31, 2026",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [],
+    "subjects": [
+      "Arts",
+      "Media",
+      "Career Exploration",
+      "Theater"
+    ],
+    "cost": [
+      "Free",
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://www.openstageproject.org/program",
+    "description": "A paid behind-the-scenes fellowship for Open Stage Project Act 2 graduates over age 18. Participants get hands-on experience, professional development coaching, and food and transportation support. Applications run from February 1, 2026 to March 1, 2026, and the program runs June 1, 2026 through July 31, 2026 with a flexible four-week structure.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 57,
+    "type": "Summer Program",
+    "title": "MoMA In the Making 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-06-01",
+    "applicationDeadlineLabel": "June 1, 2026",
+    "programStartDate": "2026-07-07",
+    "programStartDateLabel": "July 7, 2026",
+    "programEndDate": "2026-08-13",
+    "programEndDateLabel": "August 13, 2026",
+    "days": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Design"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.moma.org/calendar/events/11380",
+    "description": "A free six-week studio art program for New York City high school students ages 15 to 18. Participants meet at MoMA three times a week from July 7, 2026 to August 13, 2026, explore art-making techniques, work on group and solo projects, and meet artists and museum professionals through studio visits, talks, and trips. All materials, OMNY cards, snacks, and program-related costs are provided. The application deadline is June 1, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 58,
+    "type": "Volunteering",
+    "title": "Corona Bridge Project Day of Service",
+    "location": "Elmhurst, NY",
+    "modality": [
+      "Hybrid",
+      "In Person",
+      "Online"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Unknown",
+    "programStartDate": "",
+    "programStartDateLabel": "Event date TBD",
+    "programEndDate": "",
+    "programEndDateLabel": "Unknown",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Community Service",
+      "Leadership",
+      "Sustainability",
+      "Journalism",
+      "Writing"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://forms.gle/jdXwW5m7qB2jQVB26",
+    "description": "A free volunteer opportunity for high school students through the Corona Bridge Project, an initiative supporting underrepresented communities in Queens. Students can help with food drives, online marketing, social media, journalism, or volunteer in person during the Day of Service event. Most leadership roles are remote and flexible, with the main service event connected to a school-based food drive. The event date is still TBD, and the event location listed is 83-22 Baxter Ave, Elmhurst, NY 11373.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 59,
+    "type": "Summer Program",
+    "title": "Whitney Youth Insights Arts Careers Summer 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-29",
+    "applicationDeadlineLabel": "May 29, 2026",
+    "programStartDate": "2026-06-30",
+    "programStartDateLabel": "June 30, 2026",
+    "programEndDate": "2026-07-23",
+    "programEndDateLabel": "July 23, 2026",
+    "days": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://whitneyedu.wufoo.com/forms/psn0hpu05faxvv/",
+    "description": "A free summer program for New York City students entering grades 10 through 12 to explore arts careers and arts institutions across the city. Participants meet with Whitney Museum staff, arts professionals, and other teens, and all materials and art supplies are provided. The program runs from June 30, 2026 to July 23, 2026 on Tuesdays, Wednesdays, and Thursdays from 2:00 PM to 5:00 PM. Applications are due by 11:59 PM on Friday, May 29, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 60,
+    "type": "Contest",
+    "title": "Projekt NYC Freedom to Write Journalism Contest",
+    "location": "New York City, NY",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-06-01",
+    "applicationDeadlineLabel": "June 1, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Writing",
+      "Journalism",
+      "Arts",
+      "Sports",
+      "Media"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeAYoboMB2W3S-CwIBLpEFkR2gFJMF91PWKv6mAEPUbSAJx5Q/viewform",
+    "description": "A free journalism contest for NYC students in grades 6 through 12. Students can submit a 400–600 word article in either school sports journalism or arts and performance journalism. Individual entries only are allowed, and students may submit 1 to 2 articles with relevant photos. Winners receive cash prizes and publication in Projekt NYC's 2026 magazine, and all participants receive certificates of achievement. The deadline is June 1, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 61,
+    "type": "Volunteering",
+    "title": "MoMath High School Integrators Volunteer Program",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-30",
+    "applicationDeadlineLabel": "April 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "Memorial Day weekend 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Weekend after Labor Day 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Math",
+      "Arts",
+      "Community",
+      "Education"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://momath.org/jobs/volunteers/",
+    "description": "A competitive unpaid volunteer program for mathematically talented high school students at the National Museum of Mathematics. Integrators help visitors on the museum floor, build communication and job skills, and train with mathematicians and educators. For Summer 2026, students must commit to five eight-hour days per week, including a Saturday or Sunday, for at least eight weeks. Admission is rolling, and applications and supporting materials are accepted through April 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 62,
+    "type": "Summer Program",
+    "title": "NYCPS Summer Arts Institute 2026",
+    "location": "Astoria, Queens, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-03-09",
+    "applicationDeadlineLabel": "March 9, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-07-31",
+    "programEndDateLabel": "July 31, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Theater",
+      "Film",
+      "Music",
+      "Media"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://sites.google.com/schools.nyc.gov/summerartsinstitute2026/home",
+    "description": "A free four-week arts intensive for NYC Public School students entering grades 8 through 12 in fall 2026. Students apply and audition for one studio, with options including dance, theater, concert band, strings, vocal music, film, and visual arts. The program runs weekdays from 9:00 AM to 3:00 PM at Frank Sinatra School of the Arts in Astoria.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 63,
+    "type": "Summer Program",
+    "title": "Brooklyn Bridge Park TIDES Summer 2026",
+    "location": "Brooklyn, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-01",
+    "applicationDeadlineLabel": "May 1, 2026",
+    "programStartDate": "2026-07-15",
+    "programStartDateLabel": "July 15, 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Not clearly stated",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Environment",
+      "Community Service",
+      "STEM",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://brooklynbridgepark.org/education/teen-programs/",
+    "description": "A free environmental stewardship program for high school students at Brooklyn Bridge Park. Applications for Summer 2026 are due by 9:00 PM on Friday, May 1, 2026. Successful applicants begin interviewing starting May 4, and the cohort is finalized by early June for a July 15, 2026 start date.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 64,
+    "type": "Afterschool Program",
+    "title": "Brooklyn Bridge Park TIDES Fall 2026",
+    "location": "Brooklyn, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-07-31",
+    "applicationDeadlineLabel": "July 31, 2026",
+    "programStartDate": "2026-09-09",
+    "programStartDateLabel": "September 9, 2026",
+    "programEndDate": "2026-11-11",
+    "programEndDateLabel": "November 11, 2026",
+    "days": [
+      "Wednesday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Environment",
+      "Community Service",
+      "STEM"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://brooklynbridgepark.org/education/teen-programs/",
+    "description": "A free fall teen stewardship program at Brooklyn Bridge Park for NYC high school students ages 14 and up. Fall 2026 applications open June 29 and close July 31, and the program runs on Wednesday afternoons.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 65,
+    "type": "Fellowship",
+    "title": "HYPOTHEkids New York Bioforce",
+    "location": "New York, NY",
+    "modality": [
+      "Hybrid",
+      "In Person"
+    ],
+    "applicationDeadline": "2026-02-01",
+    "applicationDeadlineLabel": "Applications for 2026 have closed",
+    "programStartDate": "2026-04-04",
+    "programStartDateLabel": "April 4, 2026",
+    "programEndDate": "2026-08-14",
+    "programEndDateLabel": "August 14, 2026",
+    "days": [
+      "Saturday",
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "STEM",
+      "Science",
+      "Health",
+      "Research",
+      "Arts"
+    ],
+    "cost": [
+      "Free",
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://www.hypothekids.org/nybioforce",
+    "description": "A free research training and career-pathway program for 11th and 12th grade students from low-resource backgrounds attending NYC public or charter high schools. The program includes 50 hours of Saturday spring science research and professional skills training followed by a six-week paid summer internship in a research lab or health care institution. For 2026, the overall program runs from April 4, 2026 to August 14, 2026, but applications for 2026 have closed.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 66,
+    "type": "Summer Program",
+    "title": "W.O.W. Project Arts, Craft, and Urban Studies High School Fellowship 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-04",
+    "applicationDeadlineLabel": "May 4, 2026",
+    "programStartDate": "2026-07-07",
+    "programStartDateLabel": "July 7, 2026",
+    "programEndDate": "2026-07-31",
+    "programEndDateLabel": "July 31, 2026",
+    "days": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10"
+    ],
+    "subjects": [
+      "Arts",
+      "Writing",
+      "Public Policy",
+      "Community"
+    ],
+    "cost": [
+      "Free",
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.wowprojectnyc.org/hsf-2026",
+    "description": "A free three-week summer fellowship for students currently in 9th or 10th grade who will be entering 10th or 11th grade in fall 2026 and who live in or attend high school in Manhattan's Chinatown. The program runs Tuesday through Friday from 10:00 AM to 3:30 PM, July 7, 2026 through July 31, 2026, includes field trips and workshops, and ends with a public showcase. Students who successfully complete the fellowship receive a $500 stipend.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 67,
+    "type": "Afterschool Program",
+    "title": "Socrateens Spring/Summer 2026",
+    "location": "Queens, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-03-31",
+    "applicationDeadlineLabel": "March 31, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "Spring/Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Not clearly stated",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Sustainability",
+      "Community",
+      "Environment"
+    ],
+    "cost": [
+      "Free",
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://socratessculpturepark.org/socrateens-program/",
+    "description": "A paid in-person teen art program for New York City students ages 13 to 19 at Socrates Sculpture Park. Participants meet weekly for hands-on art-making, artist-led learning, studio and museum visits, and public-facing community programs. The Spring/Summer 2026 application window closed on March 31, 2026, and the fall application is expected to open again in late summer. Participants are paid $18 per hour.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 68,
+    "type": "Internship",
+    "title": "Bronx Museum Teen Council",
+    "location": "Bronx, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-02-01",
+    "applicationDeadlineLabel": "February 1, 2026",
+    "programStartDate": "2026-03-01",
+    "programStartDateLabel": "Early March 2026",
+    "programEndDate": "2026-06-15",
+    "programEndDateLabel": "Mid-June 2026",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Leadership",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://bronxmuseum.org/event/teen-council-spring26-application/",
+    "description": "A paid Bronx Museum teen internship for NYC high school students ages 14 to 19. Participants engage in artmaking, artist interviews, and museum-based learning while meeting twice weekly. The spring 2026 application has already closed, but it is still a useful one to track for the next cycle.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 69,
+    "type": "Summer Program",
+    "title": "Roundabout Youth Ensemble Summer 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-06-01",
+    "applicationDeadlineLabel": "June 1, 2026",
+    "programStartDate": "2026-06-29",
+    "programStartDateLabel": "June 29, 2026",
+    "programEndDate": "2026-08-12",
+    "programEndDateLabel": "August 12, 2026",
+    "days": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Theater",
+      "Arts",
+      "Leadership"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.roundabouttheatre.org/education/teaching-and-learning/roundabout-youth-ensemble",
+    "description": "A free theater program for NYC public high school students through Roundabout Theatre Company. Ensemble members help create a full-scale original production and take part in artistic and managerial decisions. Leadership applications were due May 11, 2026, while cast and tech team submissions were due June 1, 2026. All ensemble members participate from June 29, 2026 through August 12, 2026, with regular rehearsals Tuesday through Friday from 12:00 PM to 4:00 PM and additional tech and performance dates in August.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 70,
+    "type": "Afterschool Program",
+    "title": "NewMu Teen Fellowship",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-10",
+    "applicationDeadlineLabel": "April 10, 2026 at 11:59 PM",
+    "programStartDate": "2026-09-17",
+    "programStartDateLabel": "September 17, 2026",
+    "programEndDate": "2028-06-30",
+    "programEndDateLabel": "June 2028",
+    "days": [
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "Arts",
+      "Career Exploration",
+      "Leadership",
+      "Community"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://www.newmuseum.org/learn/for-teens/",
+    "description": "A paid afterschool fellowship for New York City public high school students going into grades 9 through 11 at the time of application. Fellows work with professional artists, museum staff, and community members while building creative, leadership, and professional skills. The fellowship requires a two-school-year commitment, running from September 2026 through June 2028, with meetings every Thursday from 4:00 PM to 6:00 PM during the school year. For the first year, the program runs from September 17, 2026 to June 17, 2027. Applications are due April 10, 2026 at 11:59 PM.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 71,
+    "type": "Internship",
+    "title": "Apollo Theater Arts & Entertainment Production Internship",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-03-27",
+    "applicationDeadlineLabel": "March 27, 2026",
+    "programStartDate": "2026-04-21",
+    "programStartDateLabel": "April 21, 2026",
+    "programEndDate": "2026-05-21",
+    "programEndDateLabel": "May 21, 2026",
+    "days": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Media",
+      "Leadership",
+      "Theater",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://www.apollotheater.org/education/arts-administration-internship",
+    "description": "A paid Apollo Theater internship for New York City 12th grade students interested in arts and entertainment production. Interns learn about live and recorded productions at The Apollo and help develop a concept for Teen Takeover, earning an official production credit. The internship runs Tuesdays, Wednesdays, and Thursdays from 3:00 PM to 6:00 PM, April 21, 2026 through May 21, 2026, with required orientation dates on April 14 through April 16. Applications were due March 27, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 72,
+    "type": "Internship",
+    "title": "Museum of Jewish Heritage High School Apprenticeship Program",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-02-13",
+    "applicationDeadlineLabel": "February 13, 2026 at 3:00 PM",
+    "programStartDate": "",
+    "programStartDateLabel": "Not clearly stated",
+    "programEndDate": "",
+    "programEndDateLabel": "Not clearly stated",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "History",
+      "Culture",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://mjhnyc.org/about-the-museum-of-jewish-heritage/internships-and-fellowships/",
+    "description": "A paid museum apprenticeship for New York City public high school students at the Museum of Jewish Heritage. Students get a behind-the-scenes look at museum work while exploring Jewish heritage and their own. Applications for the 2026 program were accepted until February 13, 2026 at 3:00 PM.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 73,
+    "type": "Internship",
+    "title": "New-York Historical Student Historian Internship Program",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-01",
+    "applicationDeadlineLabel": "Ended April 1, 2026",
+    "programStartDate": "2026-07-07",
+    "programStartDateLabel": "July 7, 2026",
+    "programEndDate": "2026-08-13",
+    "programEndDateLabel": "August 13, 2026",
+    "days": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "History",
+      "Research",
+      "Leadership",
+      "Arts",
+      "Writing"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://www.nyhistory.org/education/student-historian-internship-program",
+    "description": "A paid in-person summer history internship for students entering grades 10 through 12 in fall 2026 who live in and attend school in the New York City metro area. Student Historians conduct research using museum resources and create digital public history projects while building skills in history, writing, communication, and digital media. The Summer 2026 program runs from July 7, 2026 through August 13, 2026, meeting every Tuesday, Wednesday, and Thursday from 10:00 AM to 4:00 PM. All interns receive a $700 stipend upon successful completion.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 74,
+    "type": "Afterschool Program",
+    "title": "Reel Works Narrative Lab",
+    "location": "Brooklyn, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2025-11-10",
+    "applicationDeadlineLabel": "November 10, 2025",
+    "programStartDate": "2025-12-03",
+    "programStartDateLabel": "December 3, 2025",
+    "programEndDate": "2026-06-18",
+    "programEndDateLabel": "June 18, 2026",
+    "days": [
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Film",
+      "Media",
+      "Writing",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.reelworks.org/narrative-lab",
+    "description": "A free afterschool filmmaking program for NYC high school students where participants write and direct their own short films. Students receive hands-on training in screenwriting, producing, cinematography, editing, and sound, and are matched one-to-one with filmmaker mentors. The listed cycle runs from December 3, 2025 through June 18, 2026, with sessions on Wednesdays and Thursdays from 4:30 PM to 6:30 PM. Applicants must be New York City residents, ages 16 to 20, and available during Spring Break for film production.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 75,
+    "type": "Afterschool Program",
+    "title": "ArtsConnection Teen Reviewers and Critics (TRaC) Spring 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-03-01",
+    "applicationDeadlineLabel": "March 1, 2026 at 11:59 PM",
+    "programStartDate": "",
+    "programStartDateLabel": "Spring 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Ten-week semester",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Writing",
+      "Journalism",
+      "Arts",
+      "Media",
+      "Film"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://teens.artsconnection.org/trac/",
+    "description": "A free afterschool arts journalism program for NYC teens. Participants attend five free field trips to performances, exhibitions, or screenings and meet once a week for workshops in writing, reflection, discussion, and arts journalism, with chances to publish on The JAR. The Spring 2026 application deadline was March 1, 2026 at 11:59 PM, and the program runs once a week over a ten-week semester.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 76,
+    "type": "Summer Program",
+    "title": "ArtsConnection Map Free City Summer 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-07-01",
+    "applicationDeadlineLabel": "Not open yet / expected by July 1, 2026",
+    "programStartDate": "2026-07-07",
+    "programStartDateLabel": "July 7, 2026",
+    "programEndDate": "2026-07-30",
+    "programEndDateLabel": "July 30, 2026",
+    "days": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Writing",
+      "Media",
+      "Music",
+      "Theater"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://teens.artsconnection.org/map-free-city/",
+    "description": "A free four-week summer arts exploration program for NYC teens through ArtsConnection. Participants attend 12 sessions in July, explore theater, dance, and music performances across the city, visit artist studios, galleries, and museums, create digital media content, and publish reviews on The JAR. The listed Summer 2026 workshop dates run from July 7, 2026 through July 30, 2026. The page says the program will return in July 2026, but it is not currently open.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 77,
+    "type": "Summer Program",
+    "title": "Bronx Museum Teen Summer",
+    "location": "Bronx, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Unknown",
+    "programStartDate": "",
+    "programStartDateLabel": "NYC public school summer break",
+    "programEndDate": "",
+    "programEndDateLabel": "Four-week program",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Community"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://bronxmuseum.org/learn/teens/",
+    "description": "A paid four-week summer arts program for NYC teens at The Bronx Museum. Participants explore art, community, and the role of museums, learn art-making techniques, and create a culminating exhibition of their work. The program meets three afternoons per week during the NYC public school summer break.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 78,
+    "type": "Afterschool Program",
+    "title": "Studio Museum Expanding the Walls 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-01",
+    "applicationDeadlineLabel": "Ended April 1, 2026",
+    "programStartDate": "2026-01-10",
+    "programStartDateLabel": "January 10, 2026",
+    "programEndDate": "2026-07-30",
+    "programEndDateLabel": "July 30, 2026",
+    "days": [
+      "Tuesday",
+      "Saturday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Media",
+      "History",
+      "Community",
+      "Arts"
+    ],
+    "cost": [
+      "Free",
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.studiomuseum.org/expanding-the-walls",
+    "description": "A free photography and history program for high school-aged youth from the Studio Museum in Harlem. The 2026 program runs from January 10, 2026 through July 30, 2026, with regular meetings on Tuesdays from 4:00 PM to 6:30 PM and Saturdays from 11:00 AM to 3:00 PM, plus a summer schedule starting June 30. Applications for the 2026 cycle are closed, and the next application cycle is expected in September 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 79,
+    "type": "Internship",
+    "title": "NYPL Teen Center Ambassadors",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-01",
+    "applicationDeadlineLabel": "Ended April 1, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "2025–2026 school year",
+    "programEndDate": "",
+    "programEndDateLabel": "Not clearly stated",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Education",
+      "Leadership",
+      "Community",
+      "Civics",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://www.nypl.org/remote-learning-resources/teen-center-ambassadors",
+    "description": "A paid internship at The New York Public Library for NYC high school students in grades 10 through 12. Teen Center Ambassadors create events and resources for other teens, help peers connect with library services, and build job-readiness and leadership skills. The public page says applications for the 2025–2026 school year are closed.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 80,
+    "type": "Internship",
+    "title": "New York City Center Inside the Rehearsal Room: Creative Careers",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-01",
+    "applicationDeadlineLabel": "Closed",
+    "programStartDate": "2026-02-17",
+    "programStartDateLabel": "February 17, 2026",
+    "programEndDate": "2026-02-20",
+    "programEndDateLabel": "February 20, 2026",
+    "days": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Theater",
+      "Arts",
+      "Career Exploration",
+      "Music"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.nycitycenter.org/education/career-programs/high-school-externships/",
+    "description": "A free New York City Center externship for students ages 14 to 18 that explores creative performing arts careers. Participants take on the roles of director, music director, and choreographer while learning how a musical production is developed from first read-through to dress rehearsal. The 2026 program ran from February 17, 2026 through February 20, 2026, from 10:00 AM to 3:00 PM. Applications are closed.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 81,
+    "type": "Internship",
+    "title": "New York City Center From Plan to Production: Administrative Careers",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-01",
+    "applicationDeadlineLabel": "Closed",
+    "programStartDate": "2026-04-07",
+    "programStartDateLabel": "April 7, 2026",
+    "programEndDate": "2026-04-09",
+    "programEndDateLabel": "April 9, 2026",
+    "days": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Computer Science",
+      "Business",
+      "Education",
+      "Technology"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.nycitycenter.org/education/career-programs/high-school-externships/",
+    "description": "A free New York City Center externship for students ages 14 to 18 that focuses on arts administration careers. Participants explore how productions move from idea to stage by learning about roles in marketing, programming, development, general management, and education and community engagement. The 2026 program ran from April 7, 2026 through April 9, 2026, from 10:00 AM to 3:00 PM. Applications are closed.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 82,
+    "type": "Internship",
+    "title": "New York City Center Behind the Curtain: Technical & Design Careers",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-29",
+    "applicationDeadlineLabel": "May 29, 2026 at 11:59 PM EST",
+    "programStartDate": "2026-06-29",
+    "programStartDateLabel": "June 29, 2026",
+    "programEndDate": "2026-07-01",
+    "programEndDateLabel": "July 1, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Theater",
+      "Design",
+      "Career Exploration",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.nycitycenter.org/education/career-programs/high-school-externships/",
+    "description": "A free New York City Center externship for students ages 14 to 18 that explores technical and design careers in the performing arts. Participants learn about the design process from concept to reality through hands-on exercises with professional designers and stagehands. The 2026 program runs from June 29, 2026 through July 1, 2026, from 10:00 AM to 3:00 PM. Applications are due May 29, 2026 at 11:59 PM EST.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 83,
+    "type": "Summer Program",
+    "title": "New York City Center Preludes! Summer Teen Theater Intensive",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-08",
+    "applicationDeadlineLabel": "Auditions run May 1, 2026 to May 8, 2026",
+    "programStartDate": "2026-08-10",
+    "programStartDateLabel": "August 10, 2026",
+    "programEndDate": "2026-08-15",
+    "programEndDateLabel": "August 15, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Theater",
+      "Music"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.nycitycenter.org/education/career-programs/preludes/",
+    "description": "A free week-long musical theater intensive for teens ages 13 to 18, with priority given to New York City residents. Students chosen through borough-based auditions receive pre-professional training in acting, singing, and dancing, along with a professional headshot. The 2026 intensive runs from August 10, 2026 through August 15, 2026, from 10:00 AM to 4:00 PM, with orientation on August 6 and a final sharing on August 15. Auditions take place across the five boroughs from May 1, 2026 through May 8, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 84,
+    "type": "Internship",
+    "title": "Center for Architecture Discover Architecture 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-01-04",
+    "applicationDeadlineLabel": "January 4, 2026",
+    "programStartDate": "2026-02-17",
+    "programStartDateLabel": "February 17, 2026",
+    "programEndDate": "2026-02-20",
+    "programEndDateLabel": "February 20, 2026",
+    "days": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "Architecture",
+      "Design",
+      "Career Exploration",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.centerforarchitecture.org/learning/teen-programs/discover-architecture/",
+    "description": "A free career exploration program for NYC high school sophomores and juniors interested in architecture. Students spend three days at a local architecture firm and then take part in a culminating event at the Center for Architecture. The 2026 program ran from February 17, 2026 through February 20, 2026, from 10:00 AM to 3:00 PM daily.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 85,
+    "type": "Volunteering",
+    "title": "DOROT Academic Year Teen Internship",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-01",
+    "applicationDeadlineLabel": "Closed",
+    "programStartDate": "2026-03-16",
+    "programStartDateLabel": "March 16, 2026",
+    "programEndDate": "2026-05-07",
+    "programEndDateLabel": "May 7, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Community Service",
+      "Leadership",
+      "Community",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.dorotusa.org/volunteer/academic-year-teen-internship/",
+    "description": "A free teen volunteer internship for high school students in grades 9 through 12 at DOROT in Manhattan. During the school year, teens help build social connections with older adults while earning community service hours and receiving training. For Spring 2026, the semester runs from March 16, 2026 through May 7, 2026. Interns volunteer one afternoon a week, Monday through Thursday from 4:30 PM to 6:30 PM, either at DOROT's Manhattan office or through home visits with older adults. Applications for Spring 2026 are closed.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 86,
+    "type": "Volunteering",
+    "title": "DOROT Summer Teen Internship",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Not clearly stated",
+    "programStartDate": "2026-07-21",
+    "programStartDateLabel": "July 21, 2026",
+    "programEndDate": "2026-08-13",
+    "programEndDateLabel": "August 13, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "Community Service",
+      "Leadership",
+      "Arts",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.dorotusa.org/volunteer/summer-teen-internship/",
+    "description": "A free four-week in-person summer teen internship at DOROT in Manhattan for rising high school sophomores, juniors, and seniors. Interns build relationships with older adults, take part in leadership training, and complete service activities such as home visits, technology help, discussion groups, and creative workshops. The 2026 program runs Monday through Thursday from 10:00 AM to 5:00 PM, from July 21, 2026 through August 13, 2026, with a closing celebration on the final day. Participants also complete at least 15 volunteer hours during the following academic year.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 87,
+    "type": "Internship",
+    "title": "Museum of the Moving Image Teen Council 2025–26",
+    "location": "Queens, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2025-10-17",
+    "applicationDeadlineLabel": "October 17, 2025",
+    "programStartDate": "2025-11-08",
+    "programStartDateLabel": "November 8, 2025",
+    "programEndDate": "2026-05-09",
+    "programEndDateLabel": "May 9, 2026",
+    "days": [
+      "Wednesday",
+      "Saturday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Media",
+      "Leadership",
+      "Film",
+      "Arts",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://movingimage.org/education/teen-council/",
+    "description": "A paid job development program for NYC teens interested in audiovisual and media arts who want a behind-the-scenes look at how a media museum works. Teen Council members help curate and program public youth events, including film festivals, media workshops, and other activities, while gaining mentorship from museum educators, filmmakers, actors, and programmers. The 2025–26 cycle is open to high school students ages 15 and up who are enrolled in 11th or 12th grade as of Fall 2025. The program runs from November 2025 through May 2026, with meetings on select Wednesdays and Saturdays, plus special event dates including the Teen Film Festival on May 8, 2026. Participants receive a stipend upon completion.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 88,
+    "type": "Contest",
+    "title": "Museum of the Moving Image Teen Film Festival 2026",
+    "location": "Queens, NY",
+    "modality": [
+      "Online",
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-17",
+    "applicationDeadlineLabel": "April 17, 2026 at 12:00 PM",
+    "programStartDate": "2026-05-08",
+    "programStartDateLabel": "May 8, 2026",
+    "programEndDate": "2026-05-08",
+    "programEndDateLabel": "May 8, 2026",
+    "days": [
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Film",
+      "Media",
+      "Writing",
+      "Arts",
+      "Theater"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://movingimage.org/education/education-events/2026-teen-film-festival/",
+    "description": "A free film contest for New York City teens ages 13 to 19 through the Museum of the Moving Image. Students can submit up to three original short films in any genre, as long as they were produced after May 2023 and are between 30 seconds and 10 minutes long. Selected films will be screened at MoMI's Redstone Theater on May 8, 2026, followed by a filmmaker Q&A. Applications are open until April 17, 2026 at 12:00 PM.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 89,
+    "type": "Workshop",
+    "title": "New Museum Bowery Art Space",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "No RSVP needed",
+    "programStartDate": "2026-05-15",
+    "programStartDateLabel": "May 15, 2026",
+    "programEndDate": "2026-05-15",
+    "programEndDateLabel": "May 15, 2026",
+    "days": [
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Community",
+      "Environment"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.newmuseum.org/learn/for-teens/",
+    "description": "A free teen art workshop at the New Museum for New York City teens. Participants make art, explore artworks on view in the museum's exhibitions, and connect with other teens in a relaxed social environment. No RSVP or previous art experience is needed. The listed session takes place on Friday, May 15, 2026 from 4:00 PM to 6:00 PM in Sky Room South.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 90,
+    "type": "Summer Program",
+    "title": "ARAS Teens Summer Art Program 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-01",
+    "applicationDeadlineLabel": "May 1, 2026",
+    "programStartDate": "2026-07-13",
+    "programStartDateLabel": "July 13, 2026",
+    "programEndDate": "2026-07-24",
+    "programEndDateLabel": "July 24, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://aras.org/education",
+    "description": "A free two-week in-person summer art program in New York City for teens ages 14 to 17. Participants create original artwork inspired by universal symbols, take part in museum, gallery, and artist studio visits, learn how to use libraries and archives, and meet working artists. The program runs Monday through Friday from 10:00 AM to 4:00 PM, July 13, 2026 through July 24, 2026, and students are required to attend all program days. Applications are due May 1, 2026, and all supplies are included.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 91,
+    "type": "Internship",
+    "title": "NYSCI Explainer Program",
+    "location": "Queens, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-01",
+    "applicationDeadlineLabel": "May 1, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "Varies by hiring round",
+    "programEndDate": "",
+    "programEndDateLabel": "One-year commitment",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "STEM",
+      "Education",
+      "Leadership",
+      "Career Exploration",
+      "Arts"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://nysci.org/become-a-nysci-explainer",
+    "description": "A paid youth development and employment opportunity at the New York Hall of Science for New York City students enrolled in high school, trade school, or college. Explainers engage museum visitors in STEM learning, perform demonstrations, support exhibits and programs, and build communication and career skills through the Science Career Ladder. High school students must be at least 14, live in one of the five boroughs, and be able to work weekends, holidays, and some additional shifts. The spring application period runs from April 1, 2026 through May 1, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 92,
+    "type": "Summer Program",
+    "title": "Columbia Scientific Enrichment Month 2026",
+    "location": "Online / New York, NY",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-06-19",
+    "applicationDeadlineLabel": "June 19, 2026 or until full",
+    "programStartDate": "2026-07-01",
+    "programStartDateLabel": "July 1, 2026",
+    "programEndDate": "2026-07-29",
+    "programEndDateLabel": "July 29, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "STEM",
+      "Research",
+      "Career Exploration",
+      "Science",
+      "Public Health"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.cancer.columbia.edu/education/educational-opportunities/high-school-and-undergraduate-programs/scientific-enrichment-month",
+    "description": "A free virtual month-long summer program from Columbia's Herbert Irving Comprehensive Cancer Center for high school students interested in cancer education, scientific enrichment, and professional development. Sessions cover topics such as cancer research, cancer health inequities, public health, resume writing, personal statements, interviewing, and public speaking. Students can also join public health working groups for community service hours and may earn an SEM Certificate of Completion by attending a required number of sessions. The 2026 program runs on Mondays, Tuesdays, and Wednesdays from July 1, 2026 through July 29, 2026. Registration opened March 2, 2026 and closes June 19, 2026 or when full.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 93,
+    "type": "Afterschool Program",
+    "title": "Schomburg Center Junior Scholars Program",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-01",
+    "applicationDeadlineLabel": "Closed",
+    "programStartDate": "",
+    "programStartDateLabel": "Academic year",
+    "programEndDate": "",
+    "programEndDateLabel": "Not clearly stated",
+    "days": [
+      "Saturday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "History",
+      "Humanities",
+      "Research",
+      "Arts",
+      "Writing"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.nypl.org/about/fellowships-institutes/schomburg-junior-scholars-program",
+    "description": "A free Saturday academic-year program at the Schomburg Center for students in grades 6 through 12 that promotes historical literacy through lectures, discussions, research, writing, art, and multimedia projects. The deadline to apply to the 2025–2026 class has closed. High school students in the program meet on Saturdays from 10:00 AM to 3:00 PM during the academic year.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 94,
+    "type": "Afterschool Program",
+    "title": "Street Lab Youth Leadership Council",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-01",
+    "applicationDeadlineLabel": "Closed",
+    "programStartDate": "2026-04-18",
+    "programStartDateLabel": "April 18, 2026",
+    "programEndDate": "2026-06-06",
+    "programEndDateLabel": "June 6, 2026",
+    "days": [
+      "Saturday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Architecture",
+      "Leadership",
+      "Community",
+      "Civics",
+      "Public Service"
+    ],
+    "cost": [
+      "Free",
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.streetlab.org/youth-engagement-programs/youth-leadership-council-spring-2026-central-harlem/",
+    "description": "A free Saturday leadership program for NYC high school students focused on public space, civic engagement, and neighborhood planning in Central Harlem. The Spring 2026 program includes eight sessions from April 18, 2026 through June 6, 2026, with workshops, on-street community engagement pop-ups, and a final presentation. Students who successfully complete the program receive a $300 stipend. The application period is now closed.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 95,
+    "type": "Afterschool Program",
+    "title": "PAL Mentorship and Advocacy Program",
+    "location": "Brooklyn, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Contact program for enrollment details",
+    "programStartDate": "",
+    "programStartDateLabel": "Ongoing",
+    "programEndDate": "",
+    "programEndDateLabel": "Ongoing",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Leadership",
+      "Social Justice",
+      "Community",
+      "Mental Health",
+      "Law"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://palnyc.org/",
+    "description": "A free mentorship and advocacy program in Brooklyn offered by PAL's Division of Youth and Family Justice. MAAP provides individualized, strength-based wraparound support for youth ages 12 to 21 who may be at risk of delinquent behavior, truancy, substance use, negative peer association, or family conflict. Each participant is matched with a mentor focused on self-esteem, healthy relationships, and positive decision-making. Youth are referred through ACS programs including JJI, Close to Home, and FAP.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 96,
+    "type": "Workshop",
+    "title": "Guggenheim Teen Tuesdays",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Register / drop in",
+    "programStartDate": "2026-05-05",
+    "programStartDateLabel": "May 5, 2026",
+    "programEndDate": "2026-05-05",
+    "programEndDateLabel": "May 5, 2026",
+    "days": [
+      "Tuesday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Community"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.guggenheim.org/event/teen-tuesdays",
+    "description": "A free monthly teen art hangout at the Guggenheim for teens ages 13 to 19. On the first Tuesday of every month, teens can connect with other young artists, explore their creativity, and take part in hands-on artmaking. No prior experience is needed, and free museum admission, snacks, and art materials are included. The listed event takes place on May 5, 2026 from 4:00 PM to 5:30 PM, and teens can either register or drop in.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 97,
+    "type": "Workshop",
+    "title": "Whitney Open Studio for Teens 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Registration required",
+    "programStartDate": "2026-02-06",
+    "programStartDateLabel": "February 6, 2026",
+    "programEndDate": "2026-04-24",
+    "programEndDateLabel": "April 24, 2026",
+    "days": [
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://whitney.org/events/open-studio-teens-2026",
+    "description": "A free art-making workshop series for teens at the Whitney Museum. On select Fridays from February through April 2026, teens work with contemporary artists and educators on hands-on projects inspired by the Whitney's collection and exhibitions. Listed 2026 dates are February 6, February 13, March 6, March 13, March 27, April 17, and April 24. Registration is required, and all programs are free for those 18 and under.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 98,
+    "type": "Internship",
+    "title": "NYBG High School Explainer Program",
+    "location": "Bronx, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-22",
+    "applicationDeadlineLabel": "April 22, 2026",
+    "programStartDate": "2026-08-25",
+    "programStartDateLabel": "August 25, 2026",
+    "programEndDate": "2027-01-23",
+    "programEndDateLabel": "January 23, 2027",
+    "days": [
+      "Saturday",
+      "Sunday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "STEM",
+      "Science",
+      "Education",
+      "Leadership",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://www.nybg.org/education/childrens-education/kids-teens/explainers/",
+    "description": "A paid internship at the New York Botanical Garden for teens interested in science communication and public engagement. Recruitment for the Fall 2026 intern explainer session is underway, with an open house on April 18, 2026, an application deadline of April 22, 2026, and interviews in May. Mandatory training takes place from August 25 through August 28, 2026, and the weekend internship runs on Saturdays or Sundays from September 12, 2026 through January 23, 2027.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 99,
+    "type": "Summer Program",
+    "title": "Girls Who Code Pathways Summer 2026",
+    "location": "Online",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-04-10",
+    "applicationDeadlineLabel": "April 10, 2026",
+    "programStartDate": "2026-06-29",
+    "programStartDateLabel": "June 29, 2026",
+    "programEndDate": "2026-08-14",
+    "programEndDateLabel": "August 14, 2026",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Technology",
+      "STEM",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://girlswhocode.my.salesforce-sites.com/GWCEnrollment/apex/ERx_Forms__PageMaker?pageId=Welcome",
+    "description": "A free virtual coding program for high school girls and non-binary students. Pathways helps students build coding and problem-solving skills while exploring careers in tech. The Summer 2026 application closes April 10, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 100,
+    "type": "Afterschool Program",
+    "title": "Let's Get Ready Student Support Program",
+    "location": "Online",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Rolling admissions / first come, first served",
+    "programStartDate": "",
+    "programStartDateLabel": "Ongoing",
+    "programEndDate": "",
+    "programEndDateLabel": "Ongoing",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "College Prep",
+      "Education",
+      "Leadership"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.letsgetready.org/signup/",
+    "description": "A free virtual college application and college completion support program for students from junior year of high school through college graduation. Students receive one-on-one goal-setting, mentoring, text-based support, and help with applications, enrollment, and college persistence. Applications are reviewed on a rolling basis and eligible students are admitted first come, first served.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 101,
+    "type": "Summer Program",
+    "title": "Sadie Nash Leadership Project Summer Institute 2026",
+    "location": "New York, NY / Newark, NJ",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-08",
+    "applicationDeadlineLabel": "May 8, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-08-13",
+    "programEndDateLabel": "August 13, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Leadership",
+      "Social Justice",
+      "Culture",
+      "Community",
+      "Law"
+    ],
+    "cost": [
+      "Free",
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.sadienash.org/summer-institute",
+    "description": "A free six-week summer program for young women and gender-expansive youth enrolled in high school and living in New York City or Newark. Participants explore identity, social justice, and leadership, meet women and gender-expansive leaders, and go on field trips. Summer Institute 2026 runs from July 6, 2026 to August 13, 2026, classes meet Monday through Thursday from 10:00 AM to 4:00 PM, and participants are eligible for a $450 stipend based on participation.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 102,
+    "type": "Afterschool Program",
+    "title": "Girls Write Now Summer Journeys 2026",
+    "location": "New York, NY / Online",
+    "modality": [
+      "Hybrid",
+      "Online"
+    ],
+    "applicationDeadline": "2026-04-30",
+    "applicationDeadlineLabel": "April 30, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Summer 2026",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Writing",
+      "Media",
+      "Leadership"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://girlswritenow.org/journeys/",
+    "description": "A free writing and mentorship program with summer journeys for teens interested in creative writing, media, podcasting, and cross-genre storytelling. Summer 2026 applications are open through April 30, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 103,
+    "type": "Afterschool Program",
+    "title": "Apex for Youth High School Programs",
+    "location": "New York, NY / Online",
+    "modality": [
+      "Hybrid",
+      "In Person",
+      "Online"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Open now / rolling",
+    "programStartDate": "",
+    "programStartDateLabel": "Varies by program",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies by program",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Leadership",
+      "College Prep",
+      "Career Exploration",
+      "Community"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://apexforyouth.org/high-school-programs/",
+    "description": "A free set of high school programs for Asian American youth in NYC and virtual settings, including mentoring, college and career support, and community-building opportunities. Student applications are open through Apex's youth application page.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 104,
+    "type": "Summer Program",
+    "title": "The Noguchi Museum Making Your Mark 2026",
+    "location": "Queens, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-17",
+    "applicationDeadlineLabel": "May 17, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-07-31",
+    "programEndDateLabel": "July 31, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts"
+    ],
+    "cost": [
+      "Free",
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.noguchi.org/museum/education/teens/making-your-mark/",
+    "description": "A paid studio art-making intensive for rising junior and senior New York City public high school students at The Noguchi Museum in Queens. Participants meet Monday through Thursday from 11:00 AM to 4:00 PM from July 6 to July 31, 2026, explore interdisciplinary approaches to sculpture inspired by Isamu Noguchi, and create work for a public student exhibition. All materials are provided, students receive a $600 stipend for full participation, and transportation reimbursement is available.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 105,
+    "type": "Summer Program",
+    "title": "Columbia ACComPLISHED Community Health Program",
+    "location": "New York, NY / Online",
+    "modality": [
+      "Hybrid",
+      "Online",
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-15",
+    "applicationDeadlineLabel": "April 15, 2026",
+    "programStartDate": "2026-06-20",
+    "programStartDateLabel": "June 20, 2026",
+    "programEndDate": "2026-08-29",
+    "programEndDateLabel": "August 29, 2026",
+    "days": [
+      "Saturday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Health",
+      "Medicine",
+      "Public Health",
+      "Leadership",
+      "Community"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.neurology.columbia.edu/education/additional-educational-programs/adolescents-caring-community-promoting-literacy-insurance-stroke-health-education-emergencies-and-dementia-accomplished/eligibility-application-and-selection",
+    "description": "A free hybrid community health program for high school students in grades 10 through 12 who are interested in health, education, and social impact. The Summer 2026 cohort runs from June 20 to August 29, 2026, with weekly Zoom sessions and monthly in-person sessions, plus mentorship, workshops, simulated patient encounters, and a capstone community health project. Summer 2026 applications are reviewed on a rolling basis, with a late deadline of April 15, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 106,
+    "type": "Summer Program",
+    "title": "America On Tech TECH360 Summer 2026",
+    "location": "New York, NY / Online",
+    "modality": [
+      "Hybrid",
+      "In Person",
+      "Online"
+    ],
+    "applicationDeadline": "2026-05-24",
+    "applicationDeadlineLabel": "May 24, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies by cohort",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "AI",
+      "Technology",
+      "Career Exploration",
+      "STEM"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.americaontech.org/tech360.html",
+    "description": "A free technology program for rising high school juniors and seniors in New York City. The Summer 2026 TECH360 application is open now, with a priority deadline of May 3 and a final deadline of May 24, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 107,
+    "type": "Summer Program",
+    "title": "TDF Young Playwrights Summer Program 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-11",
+    "applicationDeadlineLabel": "May 11, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Two-week program",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Writing",
+      "Theater",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.tdf.org/school-and-community-programs/tdf-education-programs/tdf-young-playwrights-summer-program/",
+    "description": "A free two-week playwriting intensive for rising high school juniors and seniors and spring 2026 graduates. Students explore dramatic writing, attend seminars with theatre artists, and develop an original short play.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 108,
+    "type": "Contest",
+    "title": "Teen Writing Contest at the Morgan Library & Museum 2026",
+    "location": "New York, NY",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-05-03",
+    "applicationDeadlineLabel": "May 3, 2026",
+    "programStartDate": "2026-03-11",
+    "programStartDateLabel": "March 11, 2026",
+    "programEndDate": "2026-05-03",
+    "programEndDateLabel": "May 3, 2026",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Writing",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.themorgan.org/programs/teen-writing-contest/2026",
+    "description": "A free creative writing contest for teens inspired by the Morgan Library & Museum exhibition 'Come Together: 3,000 Years of Stories and Storytelling.' Students ages 13 to 19 who live, work, or go to school in one of the five boroughs of New York City may submit one original entry of up to 400 words in prose or poetry. The 2026 contest runs from March 11, 2026 to May 3, 2026, and four winners will each receive a $100 MasterCard gift card.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 109,
+    "type": "Afterschool Program",
+    "title": "The New Group YTT: College Access",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Apply now",
+    "programStartDate": "",
+    "programStartDateLabel": "Academic year program",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "College Prep",
+      "Theater",
+      "Career Exploration",
+      "Writing"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://staging.thenewgroup.org/education/ytt-college-access/",
+    "description": "A free college access program for New York City high school students that uses theater-based techniques to support personal statement writing, interview preparation, and the college admissions process.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 110,
+    "type": "Internship",
+    "title": "Richmond County District Attorney High School Internship 2026",
+    "location": "Staten Island, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-06-06",
+    "applicationDeadlineLabel": "June 6, 2026",
+    "programStartDate": "2026-07-07",
+    "programStartDateLabel": "July 7, 2026",
+    "programEndDate": "2026-08-06",
+    "programEndDateLabel": "August 6, 2026",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Law",
+      "Public Service",
+      "Criminal Justice",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.statenislandda.org/careers/",
+    "description": "A free summer internship for high school students through the Richmond County District Attorney's Office. Students apply by submitting a resume and internship application, and the 2026 high school summer internship runs from July 7 to August 6, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 111,
+    "type": "Summer Program",
+    "title": "Bella Abzug Leadership Institute Summer Program 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "2026 summer program applications open",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Six-week program",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Leadership"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.abzuginstitute.org/summer-programs",
+    "description": "A free six-week summer leadership and debate program for youth ages 13 to 21 from the NYC metropolitan area. The program includes workshops, seminars, speakers, networking, and debate labs, and gives priority to youth from underserved neighborhoods and schools.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 112,
+    "type": "Summer Program",
+    "title": "The Ivy Initiative Summer Conservatory 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-28",
+    "applicationDeadlineLabel": "April 28, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-08-26",
+    "programEndDateLabel": "August 26, 2026",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Theater",
+      "Leadership",
+      "Music",
+      "Sports",
+      "History"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.liminaltheatre.org/theivyinitiative",
+    "description": "A free fully subsidized summer conservatory program for rising high school sophomores, juniors, and seniors in New York City from historically excluded backgrounds, including students of color and those from lower-income households, who are passionate about theatre. Students receive college-level acting training, masterclasses with Broadway and industry professionals, mentorship, and professional development. The 2026 priority application deadline is April 28, 2026, rolling participant notifications begin in May, and the program runs from July 6 to August 26, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 113,
+    "type": "Summer Program",
+    "title": "Stella Adler Summer Shakespeare 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-06-01",
+    "applicationDeadlineLabel": "June 1, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-08-07",
+    "programEndDateLabel": "August 7, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Theater",
+      "Music",
+      "Sports"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://stellaadler.com/arts-justice/k-12/summer-shakespeare/",
+    "description": "A free five-week summer Shakespeare intensive for qualifying NYC high school students. Students train in voice, movement, ensemble work, and scene study, and the program ends with a production of an abbreviated Shakespeare play.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 114,
+    "type": "Summer Program",
+    "title": "Teen Tech Launchpad 2026",
+    "location": "Online",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-05-15",
+    "applicationDeadlineLabel": "May 15, 2026",
+    "programStartDate": "2026-07-07",
+    "programStartDateLabel": "July 7, 2026",
+    "programEndDate": "2026-08-13",
+    "programEndDateLabel": "August 13, 2026",
+    "days": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Technology",
+      "Computer Science",
+      "Career Exploration",
+      "College Prep",
+      "STEM"
+    ],
+    "cost": [
+      "Free",
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.theknowledgehouse.org/teen_tech_launchpad/",
+    "description": "A free six-week virtual tech summer intensive for current high school students. Students build technical and career skills, receive an education stipend, and get support with internships, work-based learning, and college pathways.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 115,
+    "type": "Afterschool Program",
+    "title": "Liberty LEADS",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Apply online / request application",
+    "programStartDate": "",
+    "programStartDateLabel": "After-school, weekend, and summer programming",
+    "programEndDate": "",
+    "programEndDateLabel": "Multi-year program",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "College Prep",
+      "Education",
+      "Leadership",
+      "Computer Science",
+      "Technology"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.bankstreet.edu/education-for-children/liberty-leads/how-to-apply/",
+    "description": "A free NYC-based high school completion and college access program at Bank Street College. Students can request or submit an application online and take part in after-school, weekend, and summer programming focused on academic growth, leadership, and college success.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 116,
+    "type": "Summer Program",
+    "title": "Legal Outreach Summer Law Institute 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Application cycle open",
+    "programStartDate": "",
+    "programStartDateLabel": "First week of July",
+    "programEndDate": "",
+    "programEndDateLabel": "First week of August",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9"
+    ],
+    "subjects": [
+      "Law",
+      "Criminal Justice",
+      "Leadership",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://legaloutreach.org/programs/summer-law-institute/",
+    "description": "A free five-week summer law program for students who have just completed eighth grade and are entering ninth grade. Students study criminal law topics, meet attorneys, visit legal institutions, and participate in a mock trial.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 117,
+    "type": "Afterschool Program",
+    "title": "Parsons Scholars Program",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-12",
+    "applicationDeadlineLabel": "April 12, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "Spring and Summer program",
+    "programEndDate": "",
+    "programEndDateLabel": "Multi-year program",
+    "days": [
+      "Saturday"
+    ],
+    "grades": [
+      "Grade 10"
+    ],
+    "subjects": [
+      "Arts",
+      "Design",
+      "College Prep",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://scholars.parsons.edu/programs/parsons-scholars-program/application-hub/",
+    "description": "A free 2.5-year college preparation and access program for New York City public high school students interested in art and design. The program centers young artists of color and includes Saturday classes, summer experiences, studio work, and college guidance.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 118,
+    "type": "Summer Program",
+    "title": "State Pre-College Enrichment Program (S-PREP) 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "TBA",
+    "programStartDate": "2026-07-01",
+    "programStartDateLabel": "July 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Summer 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Medicine",
+      "STEM",
+      "College Prep",
+      "Health"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.vagelos.columbia.edu/education/academic-programs/educational-opportunities/summer-youth-programs/middle-high-school-students/state-pre-college-enrichment-program-s-prep/how-apply",
+    "description": "A free Columbia University program for students interested in medicine and related STEM fields. The summer program is scheduled for July 2026 and meets Monday through Friday from 10:00 AM to 2:00 PM. The Summer 2026 application release date, deadline, and decision release are all still listed as TBA, and students can join the electronic mailing list for updates.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 119,
+    "type": "Summer Program",
+    "title": "Harmony Program Summer Camp 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-08",
+    "applicationDeadlineLabel": "May 8, 2026",
+    "programStartDate": "2026-07-27",
+    "programStartDateLabel": "July 27, 2026",
+    "programEndDate": "2026-08-14",
+    "programEndDateLabel": "August 14, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Music"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://harmonyprogram.org/summer-camp/",
+    "description": "A free three-week ensemble-based music summer program at The Juilliard School for New York City K-12 instrumentalists and singers of all levels. Students apply to specific ensembles, and some tracks require auditions or audition videos.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 120,
+    "type": "Summer Program",
+    "title": "DCTV Youth Media Summer Intensive 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-15",
+    "applicationDeadlineLabel": "April 15, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Summer 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Film",
+      "Media",
+      "Writing",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.dctvny.org/s/youth/summer-media-intensive",
+    "description": "A free youth media summer intensive from DCTV for New York City teens. Students learn camera work, storytelling, editing, and documentary filmmaking through hands-on media arts training.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 121,
+    "type": "Summer Program",
+    "title": "Lighthouse Guild Young Adult Leadership Program",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Now accepting applications",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer program",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Leadership",
+      "Writing",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://lighthouseguild.org/support-services/academic-and-career-services/young-adult-programs/apply-for-the-young-adult-leadership-program/",
+    "description": "A free summer leadership and personal development program for young people with vision impairment in the NYC metro area. Students build skills in communication, collaboration, goal setting, and leadership through workshops and group projects.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 122,
+    "type": "Summer Program",
+    "title": "First Impressions Youth Summer Institute at CUNY Law 2026",
+    "location": "Queens, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Application cycle open",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Four-week program",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Law",
+      "Civics",
+      "Social Justice",
+      "Leadership",
+      "Public Service"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.law.cuny.edu/centers-and-initiatives/first-impressions/programs/",
+    "description": "A free four-week summer program at CUNY Law where youth engage with civic engagement, youth empowerment, social justice, and community advocacy. The program is led by law students and includes panels, discussions, and workshops with alumni who use law as a tool for social good.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 123,
+    "type": "Afterschool Program",
+    "title": "BioBus Junior Scientist Programs",
+    "location": "Harlem, NY / Lower East Side, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-01",
+    "applicationDeadlineLabel": "Closed",
+    "programStartDate": "",
+    "programStartDateLabel": "July 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "August 2027",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "STEM",
+      "Research",
+      "Science",
+      "Leadership"
+    ],
+    "cost": [
+      "Free",
+      "Paid"
+    ],
+    "image": "",
+    "link": "https://www.biobus.org/tag/internship/",
+    "description": "A set of paid Junior Scientist opportunities from BioBus for high school students in New York City. BioBus says high school Junior Scientists receive training and mentorship from research scientists, develop independent projects, co-teach programs for younger students, and gain lab and science communication experience. If there is no active application, students can use the interest form or mailing list for updates.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 124,
+    "type": "Summer Program",
+    "title": "Fordham Visions of the Good 2026",
+    "location": "Bronx, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-03-25",
+    "applicationDeadlineLabel": "March 25, 2026",
+    "programStartDate": "2026-07-12",
+    "programStartDateLabel": "July 12, 2026",
+    "programEndDate": "2026-07-24",
+    "programEndDateLabel": "July 24, 2026",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Humanities",
+      "College Prep",
+      "Leadership"
+    ],
+    "cost": [
+      "Free",
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.fordham.edu/academics/departments/philosophy/department-life/visions-of-the-good-in-the-bronx-a-summer-scholars-program/",
+    "description": "A free residential summer philosophy program for New York City high school students at Fordham University. Students live on campus, study humanities with Fordham professors, receive a stipend, and continue with a year-long mentoring component focused on college and life-readiness support.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 125,
+    "type": "Afterschool Program",
+    "title": "CityParks Tennis Spring Youth Tennis 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Registration open now",
+    "programStartDate": "2026-04-25",
+    "programStartDateLabel": "April 25, 2026",
+    "programEndDate": "2026-06-21",
+    "programEndDateLabel": "June 21, 2026",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Sports",
+      "Environment"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://cityparksfoundation.org/play/tennis/",
+    "description": "A free once-weekly spring tennis program for youth ages 6 to 17 in parks across the five boroughs. Teens can learn the basics of tennis through games and drills, and more experienced players may qualify for competitions and tournaments.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 126,
+    "type": "Afterschool Program",
+    "title": "CityParks Junior Golf Center 2026",
+    "location": "Brooklyn, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Registration open now",
+    "programStartDate": "",
+    "programStartDateLabel": "Spring 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies by age group",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Sports",
+      "Leadership",
+      "Environment"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://cityparksfoundation.org/play/junior-golf-center/",
+    "description": "A free golf instruction program in Brooklyn for youth, with age-based lessons including programs for ages 14 to 17 that emphasize both golf skills and personal development. No prior golf experience is required for beginner-level instruction.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 127,
+    "type": "Afterschool Program",
+    "title": "LPGA Girls Forward Program 2026",
+    "location": "Brooklyn, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Registration open now",
+    "programStartDate": "2026-04-14",
+    "programStartDateLabel": "April 14, 2026",
+    "programEndDate": "2026-06-21",
+    "programEndDateLabel": "June 21, 2026",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10"
+    ],
+    "subjects": [
+      "Sports",
+      "Leadership",
+      "Arts",
+      "Environment"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://cityparksfoundation.org/girls-forward/",
+    "description": "A free golf program for girls ages 13 to 16 at the CityParks Junior Golf Center in Brooklyn. The 2026 session runs from April 14 through June 21 and is designed to build golf skills in a supportive setting.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 128,
+    "type": "Volunteering",
+    "title": "It's My Park Volunteer Events",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Ongoing / event-based",
+    "programStartDate": "",
+    "programStartDateLabel": "Ongoing",
+    "programEndDate": "",
+    "programEndDateLabel": "Ongoing",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Community Service",
+      "Environment"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://cityparksfoundation.org/volunteer-its-my-park/",
+    "description": "A free volunteer program that lets New Yorkers join hands-on beautification projects in neighborhood parks, including cleaning, gardening, and painting. Events take place across the city and youth groups can also lead their own projects.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 129,
+    "type": "Program",
+    "title": "NYC Teenspace",
+    "location": "Online",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Ongoing",
+    "programStartDate": "",
+    "programStartDateLabel": "Ongoing",
+    "programEndDate": "",
+    "programEndDateLabel": "Ongoing",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "Mental Health",
+      "Health"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.nycteenspace.com",
+    "description": "A free online mental health support program for eligible NYC teens ages 13 to 17. Teens can access messaging therapy, one live video session per month, and other virtual mental health resources without needing insurance.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 130,
+    "type": "Fellowship",
+    "title": "Catalyst Network Foundation Fellowship 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-17",
+    "applicationDeadlineLabel": "April 17, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "Leadership",
+      "Career Exploration",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://catalyst-network.org/apply",
+    "description": "A free fellowship and summer intensive program for rising high school juniors and seniors in New York City enrolled at participating partner high schools. Students receive mentorship, professional development, and leadership support. The 2026 application period runs through April 17, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 131,
+    "type": "Summer Program",
+    "title": "Urban Arts Game Academy 2D Game Development Summer Intensive 2026",
+    "location": "New York, NY / Online",
+    "modality": [
+      "Hybrid",
+      "In Person",
+      "Online"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Applications open / infosession required",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-08-14",
+    "programEndDateLabel": "August 14, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Arts",
+      "Film",
+      "Technology",
+      "STEM"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://urbanarts.org/gameacademy/",
+    "description": "A free six-week summer intensive in game design and computer science for high school students. Students learn C# coding, pixel art, animation, music, and storytelling through game development in an accelerated course that prepares them for creative STEM college programs. The program runs Monday through Friday from 10:00 AM to 5:00 PM and takes place at the Learning Lab or online.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 132,
+    "type": "Summer Program",
+    "title": "Urban Arts Founders Lab 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-05-08",
+    "applicationDeadlineLabel": "May 8, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-07-17",
+    "programEndDateLabel": "July 17, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Entrepreneurship",
+      "Computer Science",
+      "AI",
+      "Business",
+      "Technology"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://urbanarts.org/founders-lab",
+    "description": "A free two-week summer program from Urban Arts where students use their game design and coding skills to build a startup from scratch. With support from industry experts, students explore entrepreneurship, AI, pitching, marketing, product-market fit, and business planning, then present their work at Demo Day. The 2026 application deadline is May 8, 2026.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 133,
+    "type": "Summer Program",
+    "title": "Urban Arts Summer Dev Dash 2026",
+    "location": "Online",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Sign up open now",
+    "programStartDate": "2026-07-16",
+    "programStartDateLabel": "July 16, 2026",
+    "programEndDate": "2026-08-06",
+    "programEndDateLabel": "August 6, 2026",
+    "days": [
+      "Thursday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Design",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://urbanarts.org/gameacademy/",
+    "description": "A free online summer game jam series for advanced Game Academy students and recent alumni. Students can join one or more of four day-long Dev Dash sessions on July 16, July 23, July 30, and August 6, each with a unique creative challenge to design, develop, publish, and present a new game prototype within one day.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 134,
+    "type": "Afterschool Program",
+    "title": "Youth Food Advocates (YFA)",
+    "location": "New York, NY",
+    "modality": [
+      "Hybrid",
+      "In Person",
+      "Online"
+    ],
+    "applicationDeadline": "2026-06-15",
+    "applicationDeadlineLabel": "June 15, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer training and 2026–2027 school year",
+    "programEndDate": "",
+    "programEndDateLabel": "School year program",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Sustainability",
+      "Leadership",
+      "Social Justice",
+      "Community",
+      "Law"
+    ],
+    "cost": [
+      "Free",
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.food-ed.org/youthfoodadvocates",
+    "description": "A paid youth leadership and food justice program for New York City high school students. Youth Food Advocates receive training in food systems, advocacy, and organizing, then lead projects and campaigns during the school year.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 135,
+    "type": "Summer Program",
+    "title": "NYU GSTEM 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-20",
+    "applicationDeadlineLabel": "April 20, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-08-14",
+    "programEndDateLabel": "August 14, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "STEM",
+      "Research",
+      "Engineering",
+      "College Prep",
+      "Computer Science"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://engineering.nyu.edu/academics/programs/k12-stem-education/gstem",
+    "description": "A free six-week summer STEM research and college preparation program for NYC students at NYU Tandon. Students explore engineering and research, work with mentors, and take part in enrichment and college access programming.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 136,
+    "type": "Summer Program",
+    "title": "The Opportunity Network Summer Institute 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Application cycle open",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 10"
+    ],
+    "subjects": [
+      "College Prep",
+      "Career Exploration",
+      "Leadership",
+      "Computer Science",
+      "Technology"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://optnetwork.org/students/apply/",
+    "description": "A free college and career development program for public school students in New York City. Students can access summer programming, mentorship, networking, and long-term support through college and beyond.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 137,
+    "type": "Summer Program",
+    "title": "Sadie Nash Summer Institute 2026",
+    "location": "New York, NY / Newark, NJ / Online",
+    "modality": [
+      "Hybrid",
+      "In Person",
+      "Online"
+    ],
+    "applicationDeadline": "2026-04-19",
+    "applicationDeadlineLabel": "April 19, 2026",
+    "programStartDate": "2026-07-06",
+    "programStartDateLabel": "July 6, 2026",
+    "programEndDate": "2026-08-07",
+    "programEndDateLabel": "August 7, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "Leadership",
+      "Social Justice",
+      "Culture",
+      "Community",
+      "Law"
+    ],
+    "cost": [
+      "Free",
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.sadienash.org/apply",
+    "description": "A free leadership program for young women and gender-expansive youth in NYC and Newark. Participants explore identity, social justice, and leadership while building community and completing a summer intensive with a stipend.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 138,
+    "type": "Summer Program",
+    "title": "Girls Write Now Summer Workshops 2026",
+    "location": "New York, NY / Online",
+    "modality": [
+      "Hybrid",
+      "Online",
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Rolling / apply now",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Writing",
+      "Journalism",
+      "Leadership",
+      "Community"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://girlswritenow.org",
+    "description": "Free summer writing workshops and mentorship opportunities for teens through Girls Write Now. Students can join genre-based workshops, community events, and mentorship-focused programs in writing and media.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 139,
+    "type": "Summer Program",
+    "title": "SEO Scholars NYC",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Application cycle open",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer and school-year program",
+    "programEndDate": "",
+    "programEndDateLabel": "Multi-year program",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9"
+    ],
+    "subjects": [
+      "College Prep",
+      "Education",
+      "Leadership"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://www.seo-usa.org/scholars/apply/",
+    "description": "A free eight-year academic and college success program for public high school students. Students receive intensive academic support, advising, mentoring, and help through college graduation.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 140,
+    "type": "Summer Program",
+    "title": "Breakthrough New York",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Application cycle open",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer and school-year program",
+    "programEndDate": "",
+    "programEndDateLabel": "Multi-year program",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 6"
+    ],
+    "subjects": [
+      "College Prep",
+      "Education",
+      "Leadership"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://breakthroughnewyork.org/students/",
+    "description": "A long-term tuition-free academic enrichment and college access program for motivated students from low-income backgrounds in New York City.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 141,
+    "type": "Summer Program",
+    "title": "NYU ARISE 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-02-21",
+    "applicationDeadlineLabel": "Closed",
+    "programStartDate": "2026-06-08",
+    "programStartDateLabel": "June 8, 2026",
+    "programEndDate": "2026-08-14",
+    "programEndDateLabel": "August 14, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "Research",
+      "STEM",
+      "Engineering",
+      "Leadership",
+      "Arts"
+    ],
+    "cost": [
+      "Free",
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://engineering.nyu.edu/academics/programs/k12-stem-education/arise",
+    "description": "A competitive free summer research program at NYU Tandon for NYC students. Participants complete remote foundational coursework, then a hands-on lab placement with a stipend.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 142,
+    "type": "Summer Program",
+    "title": "NYU Machine Learning Summer Program 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-18",
+    "applicationDeadlineLabel": "April 18, 2026",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "AI",
+      "Computer Science",
+      "Research",
+      "Technology",
+      "STEM"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://engineering.nyu.edu",
+    "description": "A free summer machine learning opportunity for high school students through NYU-focused STEM outreach programming.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 143,
+    "type": "Summer Program",
+    "title": "College Now STEM Research Academy 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Varies by college",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "STEM",
+      "Research",
+      "College Prep",
+      "Computer Science",
+      "Technology"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://k16.cuny.edu/collegenow/",
+    "description": "Free summer STEM and college-credit opportunities through CUNY College Now, including research, academic enrichment, and college readiness programming at participating campuses.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 144,
+    "type": "Summer Program",
+    "title": "Apollo Theater Academy Internship 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Apply now",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Theater",
+      "Leadership",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Free",
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.apollotheater.org/education/",
+    "description": "A paid arts and leadership opportunity for NYC teens through the Apollo Theater Academy. Students explore arts administration, performance, and professional development.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 145,
+    "type": "Summer Program",
+    "title": "Cooper Hewitt DesignPrep 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Application cycle open",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Year-round program",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "Design",
+      "Arts",
+      "College Prep"
+    ],
+    "cost": [
+      "Free",
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.cooperhewitt.org/education/designprep/",
+    "description": "A free paid design program for NYC teens through Cooper Hewitt. Students explore design fields, complete projects, meet professionals, and build portfolios over a multi-session experience.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 146,
+    "type": "Summer Program",
+    "title": "The Met Summer Internship for Teens 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Application cycle open",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Arts",
+      "Career Exploration"
+    ],
+    "cost": [
+      "Free",
+      "Stipend"
+    ],
+    "image": "",
+    "link": "https://www.metmuseum.org/learn/teens",
+    "description": "A paid summer internship and museum learning opportunity for NYC teens through The Metropolitan Museum of Art.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 147,
+    "type": "Summer Program",
+    "title": "Girls Who Code Summer Programs 2026",
+    "location": "Online / New York, NY",
+    "modality": [
+      "Online",
+      "Hybrid",
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Apply now",
+    "programStartDate": "",
+    "programStartDateLabel": "Summer 2026",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Computer Science",
+      "Technology",
+      "Career Exploration",
+      "STEM",
+      "Community"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://girlswhocode.com/programs/summer-immersion-program",
+    "description": "Free summer computer science opportunities for high school students through Girls Who Code, including coding instruction, career exploration, and community-building.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 149,
+    "type": "Afterschool Program",
+    "title": "Columbia Sci-Inspire",
+    "location": "New York, NY / Online",
+    "modality": [
+      "Hybrid",
+      "In Person",
+      "Online"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Apply now",
+    "programStartDate": "",
+    "programStartDateLabel": "Year-round",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "STEM",
+      "Research",
+      "Leadership",
+      "Science"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://sciinspire.columbia.edu/",
+    "description": "A free Columbia-based STEM enrichment and mentorship opportunity for students interested in science, research, and academic growth.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 150,
+    "type": "Contest",
+    "title": "Justice For All 2026 Essay Contest",
+    "location": "New York, NY / Online",
+    "modality": [
+      "Online"
+    ],
+    "applicationDeadline": "2026-04-27",
+    "applicationDeadlineLabel": "April 27, 2026 at 11:59 PM",
+    "programStartDate": "",
+    "programStartDateLabel": "N/A",
+    "programEndDate": "",
+    "programEndDateLabel": "N/A",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Writing",
+      "Law",
+      "Civics",
+      "History"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://justiceforall.ca2.uscourts.gov/essay-contest-2026/",
+    "description": "A free New York essay contest for high school students through the Justice For All initiative and the New York County Lawyers Association. To commemorate the 250th anniversary of the Declaration of Independence, students must answer the question: if you could rewrite the Declaration of Independence, how would you and why? Essays must be 500 to 1000 words, double spaced, submitted as a PDF, and sent by email. First place wins $1,000, second place wins $400, and third place wins $100.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 151,
+    "type": "Summer Program",
+    "title": "Justice Institute: Crime, the Constitution, and the Courts",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-04-17",
+    "applicationDeadlineLabel": "April 17, 2026",
+    "programStartDate": "2026-07-20",
+    "programStartDateLabel": "July 20, 2026",
+    "programEndDate": "2026-07-24",
+    "programEndDateLabel": "July 24, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Law",
+      "Criminal Justice",
+      "Civics",
+      "Social Justice",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://justiceforall.ca2.uscourts.gov/wp-content/uploads/2026/02/Flyer-Justice-Institute-2026.pdf",
+    "description": "A free one-week summer law program for New York City area students entering grades 10 through 12 in fall 2026. Students learn about the legal system through presentations from judges, FBI agents, Deputy U.S. Marshals, Secret Service agents, prosecutors, defense lawyers, and others. They also observe real court proceedings, discuss them with a federal judge, build advocacy skills, and take part in a mock trial competition. The program runs at either the Brooklyn or Manhattan federal courthouse and accepts students on a first come, first served basis.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 152,
+    "type": "Afterschool Program",
+    "title": "Oyate Group Rise Leadership",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "",
+    "applicationDeadlineLabel": "Apply now",
+    "programStartDate": "",
+    "programStartDateLabel": "School year program",
+    "programEndDate": "",
+    "programEndDateLabel": "Varies",
+    "days": [
+      "Flexible"
+    ],
+    "grades": [
+      "Grade 10",
+      "Grade 11"
+    ],
+    "subjects": [
+      "Leadership",
+      "Business",
+      "Technology",
+      "Community"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://oyategroup.org/rise-leadership/",
+    "description": "A free leadership program for rising high school sophomores and juniors in New York City. Students build skills as creators, critical thinkers, community leaders, and social change makers through a school-year leadership experience.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  },
+  {
+    "id": 153,
+    "type": "Summer Program",
+    "title": "SOCAPA City Cinema Summer 2026",
+    "location": "New York, NY",
+    "modality": [
+      "In Person"
+    ],
+    "applicationDeadline": "2026-06-01",
+    "applicationDeadlineLabel": "June 1, 2026",
+    "programStartDate": "2026-06-29",
+    "programStartDateLabel": "June 29, 2026",
+    "programEndDate": "2026-08-07",
+    "programEndDateLabel": "August 7, 2026",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "grades": [
+      "Grade 9",
+      "Grade 10",
+      "Grade 11",
+      "Grade 12"
+    ],
+    "subjects": [
+      "Film",
+      "Theater",
+      "Writing",
+      "Media",
+      "Arts"
+    ],
+    "cost": [
+      "Free"
+    ],
+    "image": "",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLScRYXM_b--K0Z463jbcsgqBs_lPbV2-ktpEorMpF2pk5dHA-w/viewform",
+    "description": "A free in-person summer arts program for New York City high school students through SOCAPA City Cinema. Summer 2026 offers two three-week sessions held Monday through Friday from 10:00 AM to 4:00 PM: Session 1 runs from June 29 to July 17, 2026 and includes Writer's Room and Actors Lab, while Session 2 runs from July 20 to August 7, 2026 and includes Film Launch and Actors Lab. Family and friends are invited to a final showcase at the end of each session. The final application deadline is June 1, 2026, with earlier priority deadlines on April 1 and May 1.",
+    "createdAt": "2026-04-10",
+    "connectedUsers": []
+  }
+]
