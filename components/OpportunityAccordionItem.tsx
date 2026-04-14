@@ -7,10 +7,8 @@ import ConnectedUsersList from "@/components/ConnectedUsersList";
 import ReportIssueForm from "@/components/ReportIssueForm";
 
 type ConnectedUser = {
-  id: string;
   name: string;
   linkedinUrl: string;
-  image?: string;
 };
 
 type Opportunity = {

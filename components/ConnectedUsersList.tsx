@@ -1,10 +1,8 @@
 "use client";
 
 type ConnectedUser = {
-  id: string;
   name: string;
   linkedinUrl: string;
-  image?: string;
 };
 
 type ConnectedUsersListProps = {
@@ -15,7 +13,10 @@ export default function ConnectedUsersList({ users }: ConnectedUsersListProps) {
   return (
     <div className="max-h-52 space-y-3 overflow-y-auto pr-1">
       {users.map((user) => (
-        <div key={user.id} className="text-sm">
+        <div
+          key={`${user.name}-${user.linkedinUrl}`}
+          className="text-sm"
+        >
           <a
             href={user.linkedinUrl}
             target="_blank"

@@ -66,6 +66,45 @@ function checkOpportunitiesRateLimit(request: NextRequest) {
   };
 }
 
+function publicConnectedUsers(users: any[] = []) {
+  if (!Array.isArray(users)) {
+    return [];
+  }
+
+  return users.map((user) => ({
+    name: String(user?.name || "").trim(),
+    linkedinUrl: String(user?.linkedinUrl || "").trim(),
+  }));
+}
+
+function publicOpportunity(opportunity: any) {
+  return {
+    id: opportunity.id,
+    type: opportunity.type,
+    title: opportunity.title,
+    location: opportunity.location,
+    modality: Array.isArray(opportunity.modality) ? opportunity.modality : [],
+    applicationDeadline: opportunity.applicationDeadline || "",
+    applicationDeadlineLabel: opportunity.applicationDeadlineLabel || "",
+    programStartDate: opportunity.programStartDate || "",
+    programStartDateLabel: opportunity.programStartDateLabel || "",
+    programEndDate: opportunity.programEndDate || "",
+    programEndDateLabel: opportunity.programEndDateLabel || "",
+    days: Array.isArray(opportunity.days) ? opportunity.days : [],
+    grades: Array.isArray(opportunity.grades) ? opportunity.grades : [],
+    subjects: Array.isArray(opportunity.subjects) ? opportunity.subjects : [],
+    cost: Array.isArray(opportunity.cost) ? opportunity.cost : [],
+    image: opportunity.image || "",
+    link: opportunity.link || "",
+    description: opportunity.description || "",
+    createdAt: opportunity.createdAt || "",
+    updatedAt: opportunity.updatedAt || "",
+    studentLed: Boolean(opportunity.studentLed),
+    keywords: Array.isArray(opportunity.keywords) ? opportunity.keywords : [],
+    connectedUsers: publicConnectedUsers(opportunity.connectedUsers),
+  };
+}
+
 export async function GET(request: NextRequest) {
   const rateLimit = checkOpportunitiesRateLimit(request);
 
@@ -90,10 +129,13 @@ export async function GET(request: NextRequest) {
 
   try {
     const opportunities = await getAllOpportunities();
+    const safeOpportunities = Array.isArray(opportunities)
+      ? opportunities.map(publicOpportunity)
+      : [];
 
     return NextResponse.json(
       {
-        opportunities,
+        opportunities: safeOpportunities,
       },
       { status: 200 }
     );

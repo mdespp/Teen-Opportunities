@@ -158,15 +158,10 @@ function publicConnectedUsers(
     newsletterOptIn?: boolean;
   }>
 ) {
-  return users.map(
-    ({
-      email: _email,
-      deleteCode: _deleteCode,
-      deleteCodeHash: _deleteCodeHash,
-      newsletterOptIn: _newsletterOptIn,
-      ...rest
-    }) => rest
-  );
+  return users.map((user) => ({
+    name: user.name,
+    linkedinUrl: user.linkedinUrl,
+  }));
 }
 
 function codeAlreadyExists(
