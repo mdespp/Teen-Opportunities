@@ -3,10 +3,16 @@ import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://teenopportunities.com"),
   title: "Teen Opportunities",
   description: "Opportunities for high school students.",
   icons: {
-    icon: "/logos/logo.png",
+    icon: [
+      { url: "/logos/logo.png", type: "image/png" },
+      { url: "/logos/logo.png", sizes: "32x32", type: "image/png" },
+      { url: "/logos/logo.png", sizes: "192x192", type: "image/png" },
+      { url: "/logos/logo.png", sizes: "512x512", type: "image/png" },
+    ],
     shortcut: "/logos/logo.png",
     apple: "/logos/logo.png",
   },
