@@ -25,6 +25,7 @@ export default function NewsletterWelcomeModal({
   onClose,
 }: NewsletterWelcomeModalProps) {
   const [email, setEmail] = useState("");
+  const [website, setWebsite] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [message, setMessage] = useState("");
   const [showSuccessModal, setShowSuccessModal] = useState(false);
@@ -70,6 +71,7 @@ export default function NewsletterWelcomeModal({
         },
         body: JSON.stringify({
           email: cleanedEmail,
+          website,
         }),
       });
 
@@ -80,6 +82,7 @@ export default function NewsletterWelcomeModal({
       }
 
       setEmail("");
+      setWebsite("");
       setShowSuccessModal(true);
     } catch (error) {
       setMessage(
@@ -263,6 +266,17 @@ export default function NewsletterWelcomeModal({
                           }}
                           placeholder="Enter your email"
                           className="w-full rounded-xl border border-[#d8cabc] bg-white px-3.5 py-3 text-sm outline-none transition focus:border-zinc-400 sm:rounded-2xl sm:px-4 sm:py-3.5"
+                        />
+
+                        <input
+                          type="text"
+                          name="website"
+                          value={website}
+                          onChange={(e) => setWebsite(e.target.value)}
+                          tabIndex={-1}
+                          autoComplete="off"
+                          className="hidden"
+                          aria-hidden="true"
                         />
 
                         <p className="text-[11px] leading-4 text-zinc-500 sm:text-xs">

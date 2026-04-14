@@ -13,8 +13,16 @@ import { saveNewsletterSignup } from "@/lib/newsletter";
 const dbName = process.env.MONGODB_DB || "nychighschoolopportunities";
 const collectionName = process.env.MONGODB_COLLECTION || "opportunities";
 
-const DELETE_RATE_LIMIT_MAX = 5;
-const DELETE_RATE_LIMIT_WINDOW_MS = 1 * 60 * 1000;
+const DELETE_RATE_LIMIT_MAX = 9;
+const DELETE_RATE_LIMIT_WINDOW_MS = 20 * 1000;
+
+const POST_RATE_LIMIT_MAX = 8;
+const POST_RATE_LIMIT_WINDOW_MS = 20 * 1000;
+
+const MAX_NAME_LENGTH = 120;
+const MAX_EMAIL_LENGTH = 254;
+const MAX_LINKEDIN_URL_LENGTH = 500;
+const MAX_HONEYPOT_LENGTH = 200;
 
 type RateLimitEntry = {
   count: number;
@@ -22,6 +30,7 @@ type RateLimitEntry = {
 };
 
 const deleteRateLimitStore = new Map<string, RateLimitEntry>();
+const postRateLimitStore = new Map<string, RateLimitEntry>();
 
 function sanitizeDeleteCode(input: string) {
   return input.replace(/[^A-Za-z0-9]/g, "").slice(0, 10).toUpperCase();
@@ -58,29 +67,31 @@ function getClientIp(request: NextRequest) {
   return "unknown";
 }
 
-function checkDeleteRateLimit(request: NextRequest, opportunityId: string) {
+function checkRateLimit(
+  store: Map<string, RateLimitEntry>,
+  key: string,
+  max: number,
+  windowMs: number
+) {
   const now = Date.now();
-  const ip = getClientIp(request);
-  const key = `delete:${opportunityId}:${ip}`;
-
-  const existing = deleteRateLimitStore.get(key);
+  const existing = store.get(key);
 
   if (!existing || now > existing.resetAt) {
     const nextEntry = {
       count: 1,
-      resetAt: now + DELETE_RATE_LIMIT_WINDOW_MS,
+      resetAt: now + windowMs,
     };
 
-    deleteRateLimitStore.set(key, nextEntry);
+    store.set(key, nextEntry);
 
     return {
       allowed: true,
-      remaining: DELETE_RATE_LIMIT_MAX - 1,
+      remaining: max - 1,
       resetAt: nextEntry.resetAt,
     };
   }
 
-  if (existing.count >= DELETE_RATE_LIMIT_MAX) {
+  if (existing.count >= max) {
     return {
       allowed: false,
       remaining: 0,
@@ -89,13 +100,33 @@ function checkDeleteRateLimit(request: NextRequest, opportunityId: string) {
   }
 
   existing.count += 1;
-  deleteRateLimitStore.set(key, existing);
+  store.set(key, existing);
 
   return {
     allowed: true,
-    remaining: DELETE_RATE_LIMIT_MAX - existing.count,
+    remaining: max - existing.count,
     resetAt: existing.resetAt,
   };
+}
+
+function checkDeleteRateLimit(request: NextRequest, opportunityId: string) {
+  const ip = getClientIp(request);
+  return checkRateLimit(
+    deleteRateLimitStore,
+    `delete:${opportunityId}:${ip}`,
+    DELETE_RATE_LIMIT_MAX,
+    DELETE_RATE_LIMIT_WINDOW_MS
+  );
+}
+
+function checkPostRateLimit(request: NextRequest, opportunityId: string) {
+  const ip = getClientIp(request);
+  return checkRateLimit(
+    postRateLimitStore,
+    `post:${opportunityId}:${ip}`,
+    POST_RATE_LIMIT_MAX,
+    POST_RATE_LIMIT_WINDOW_MS
+  );
 }
 
 function normalizeConnectedUsers(value: any, docId: string) {
@@ -175,19 +206,82 @@ export async function POST(
 ) {
   try {
     const { id } = await context.params;
-    const body = await request.json();
-
-    const rawLinkedinUrl = String(body?.linkedinUrl || "");
-    const submittedName = sanitizeEditableName(String(body?.name || "").trim());
-    const email = sanitizeEmailInput(String(body?.email || ""));
-    const newsletterOptIn = Boolean(body?.newsletterOptIn);
-
-    console.log("linkedin body newsletterOptIn:", body?.newsletterOptIn);
-    console.log("linkedin parsed newsletterOptIn:", newsletterOptIn);
 
     if (!ObjectId.isValid(id)) {
       return NextResponse.json(
         { error: "Invalid opportunity id." },
+        { status: 400 }
+      );
+    }
+
+    const rateLimit = checkPostRateLimit(request, id);
+
+    if (!rateLimit.allowed) {
+      const retryAfterSeconds = Math.max(
+        1,
+        Math.ceil((rateLimit.resetAt - Date.now()) / 1000)
+      );
+
+      return NextResponse.json(
+        {
+          error: "Too many post attempts. Please wait a little and try again.",
+        },
+        {
+          status: 429,
+          headers: {
+            "Retry-After": String(retryAfterSeconds),
+          },
+        }
+      );
+    }
+
+    let body: any;
+    try {
+      body = await request.json();
+    } catch {
+      return NextResponse.json(
+        { error: "Invalid request body." },
+        { status: 400 }
+      );
+    }
+
+    const rawLinkedinUrl = String(body?.linkedinUrl || "").trim();
+    const submittedName = sanitizeEditableName(String(body?.name || "").trim());
+    const email = sanitizeEmailInput(String(body?.email || ""));
+    const newsletterOptIn = Boolean(body?.newsletterOptIn);
+    const honeypot = String(body?.website || "").trim();
+
+    if (honeypot && honeypot.length <= MAX_HONEYPOT_LENGTH) {
+      return NextResponse.json(
+        { error: "Invalid request." },
+        { status: 400 }
+      );
+    }
+
+    if (!rawLinkedinUrl || rawLinkedinUrl.length > MAX_LINKEDIN_URL_LENGTH) {
+      return NextResponse.json(
+        { error: "Please enter a valid LinkedIn profile URL." },
+        { status: 400 }
+      );
+    }
+
+    if (submittedName.length > MAX_NAME_LENGTH) {
+      return NextResponse.json(
+        { error: "Name is too long." },
+        { status: 400 }
+      );
+    }
+
+    if (!email) {
+      return NextResponse.json(
+        { error: "Please enter an email." },
+        { status: 400 }
+      );
+    }
+
+    if (email.length > MAX_EMAIL_LENGTH || !isValidEmail(email)) {
+      return NextResponse.json(
+        { error: "Please enter a valid email." },
         { status: 400 }
       );
     }
@@ -201,26 +295,19 @@ export async function POST(
       );
     }
 
-    if (!email) {
-      return NextResponse.json(
-        { error: "Please enter an email." },
-        { status: 400 }
-      );
-    }
-
-    if (!isValidEmail(email)) {
-      return NextResponse.json(
-        { error: "Please enter a valid email." },
-        { status: 400 }
-      );
-    }
-
     const guessedName = sanitizeEditableName(parsed.name);
     const finalName = submittedName || guessedName;
 
     if (!finalName) {
       return NextResponse.json(
         { error: "Could not determine a valid name." },
+        { status: 400 }
+      );
+    }
+
+    if (finalName.length > MAX_NAME_LENGTH) {
+      return NextResponse.json(
+        { error: "Name is too long." },
         { status: 400 }
       );
     }
@@ -296,17 +383,11 @@ export async function POST(
         : id;
 
     if (newsletterOptIn) {
-      console.log("saving linkedin newsletter signup");
-
       await saveNewsletterSignup({
         email,
         source: "linkedin_post",
         opportunityId: resolvedOpportunityId,
       });
-
-      console.log("linkedin newsletter signup saved");
-    } else {
-      console.log("linkedin newsletter signup skipped");
     }
 
     return NextResponse.json(
@@ -335,6 +416,14 @@ export async function DELETE(
 ) {
   try {
     const { id } = await context.params;
+
+    if (!ObjectId.isValid(id)) {
+      return NextResponse.json(
+        { error: "Invalid opportunity id." },
+        { status: 400 }
+      );
+    }
+
     const rateLimit = checkDeleteRateLimit(request, id);
 
     if (!rateLimit.allowed) {
@@ -357,17 +446,18 @@ export async function DELETE(
       );
     }
 
-    const body = await request.json();
-
-    const deleteCode = sanitizeDeleteCode(String(body?.deleteCode || ""));
-    const deleteCodeHash = hashDeleteCode(deleteCode);
-
-    if (!ObjectId.isValid(id)) {
+    let body: any;
+    try {
+      body = await request.json();
+    } catch {
       return NextResponse.json(
-        { error: "Invalid opportunity id." },
+        { error: "Invalid request body." },
         { status: 400 }
       );
     }
+
+    const deleteCode = sanitizeDeleteCode(String(body?.deleteCode || ""));
+    const deleteCodeHash = hashDeleteCode(deleteCode);
 
     if (deleteCode.length !== 10) {
       return NextResponse.json(
@@ -414,9 +504,9 @@ export async function DELETE(
       );
     }
 
-    const updatedUsers = connectedUsers
-      .filter((user) => user.id !== targetUser.id)
-      .map(({ deleteCode, ...rest }) => rest);
+    const updatedUsers = connectedUsers.filter(
+      (user) => user.id !== targetUser.id
+    );
 
     await collection.updateOne(
       { _id },

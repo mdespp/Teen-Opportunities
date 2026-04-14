@@ -16,6 +16,7 @@ function isValidEmail(email: string) {
 
 export default function NewsletterSection() {
   const [email, setEmail] = useState("");
+  const [website, setWebsite] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [message, setMessage] = useState("");
   const [showSuccessModal, setShowSuccessModal] = useState(false);
@@ -57,6 +58,7 @@ export default function NewsletterSection() {
         },
         body: JSON.stringify({
           email: cleanedEmail,
+          website,
         }),
       });
 
@@ -67,6 +69,7 @@ export default function NewsletterSection() {
       }
 
       setEmail("");
+      setWebsite("");
       setShowSuccessModal(true);
     } catch (error) {
       setMessage(
@@ -107,6 +110,17 @@ export default function NewsletterSection() {
               }}
               placeholder="Enter your email"
               className="w-full rounded-2xl border border-[#d8cabc] bg-white px-4 py-3.5 text-sm outline-none transition focus:border-zinc-400"
+            />
+
+            <input
+              type="text"
+              name="website"
+              value={website}
+              onChange={(e) => setWebsite(e.target.value)}
+              tabIndex={-1}
+              autoComplete="off"
+              className="hidden"
+              aria-hidden="true"
             />
 
             <button
